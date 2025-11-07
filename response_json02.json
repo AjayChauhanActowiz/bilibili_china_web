@@ -1,0 +1,4459 @@
+{
+  "spmidPrefix": "333.788",
+  "inWechat": false,
+  "isClient": false,
+  "isPrVideo": false,
+  "isModern": true,
+  "error": {},
+  "pageTheme": "light",
+  "bmpDefDomain": "",
+  "defaultWbiKey": {
+    "wbiImgKey": "2590160e9f5142d4a501feda0490f3bd",
+    "wbiSubKey": "34ba9c5c4a824b368e9c053be34016bd"
+  },
+  "urlRuleKv": {
+    "whitelist": {
+      "domain": [
+        "bilibili.com",
+        "biligame.com",
+        "b23.tv",
+        "esheep.com",
+        "aikobo.cn",
+        "mhyurl.cn/dtiiFBAL",
+        "missevan.com",
+        "infinitynikki.nuanpaper.com/SeaofStars_bilibili"
+      ],
+      "rex": []
+    },
+    "blacklist": {
+      "domain": [],
+      "rex": []
+    }
+  },
+  "channelKv": [
+    {
+      "channelId": 25,
+      "tid": 1011,
+      "route": "ai",
+      "name": "人工智能",
+      "url": "//www.bilibili.com/c/ai/",
+      "icon": "homeicon/ai/1",
+      "sub": [
+        {
+          "subChannelId": 250001,
+          "tid": 2096,
+          "route": "tutorial",
+          "name": "AI学习",
+          "url": ""
+        },
+        {
+          "subChannelId": 250002,
+          "tid": 2097,
+          "route": "information",
+          "name": "AI资讯",
+          "url": ""
+        },
+        {
+          "subChannelId": 250003,
+          "tid": 2098,
+          "route": "other",
+          "name": "AI杂谈",
+          "url": ""
+        }
+      ],
+      "config": {
+        "enableSub": 0
+      }
+    },
+    {
+      "channelId": 22,
+      "tid": 1024,
+      "route": "animal",
+      "name": "动物",
+      "url": "//www.bilibili.com/c/animal/",
+      "icon": "homeicon/animal/1",
+      "sub": [
+        {
+          "subChannelId": 220001,
+          "tid": 2167,
+          "route": "cat",
+          "name": "猫",
+          "url": ""
+        },
+        {
+          "subChannelId": 220002,
+          "tid": 2168,
+          "route": "dog",
+          "name": "狗",
+          "url": ""
+        },
+        {
+          "subChannelId": 220003,
+          "tid": 2169,
+          "route": "reptiles",
+          "name": "小宠异宠",
+          "url": ""
+        },
+        {
+          "subChannelId": 220004,
+          "tid": 2170,
+          "route": "science",
+          "name": "野生动物·动物解说科普",
+          "url": ""
+        },
+        {
+          "subChannelId": 220005,
+          "tid": 2171,
+          "route": "other",
+          "name": "动物综合·二创",
+          "url": ""
+        }
+      ],
+      "config": {
+        "enableSub": 0
+      }
+    },
+    {
+      "channelId": 19,
+      "tid": 1013,
+      "route": "car",
+      "name": "汽车",
+      "url": "//www.bilibili.com/c/car",
+      "icon": "homeicon/car/1",
+      "sub": [
+        {
+          "subChannelId": 190001,
+          "tid": 2106,
+          "route": "commentary",
+          "name": "汽车测评",
+          "url": ""
+        },
+        {
+          "subChannelId": 190002,
+          "tid": 2107,
+          "route": "culture",
+          "name": "汽车文化",
+          "url": ""
+        },
+        {
+          "subChannelId": 190003,
+          "tid": 2108,
+          "route": "life",
+          "name": "汽车生活",
+          "url": ""
+        },
+        {
+          "subChannelId": 190004,
+          "tid": 2109,
+          "route": "tech",
+          "name": "汽车技术",
+          "url": ""
+        },
+        {
+          "subChannelId": 190005,
+          "tid": 2110,
+          "route": "other",
+          "name": "汽车综合",
+          "url": ""
+        }
+      ],
+      "config": {
+        "enableSub": 0
+      }
+    },
+    {
+      "channelId": 12,
+      "tid": 1001,
+      "route": "cinephile",
+      "name": "影视",
+      "url": "//www.bilibili.com/c/cinephile/",
+      "icon": "homeicon/cinephile/1",
+      "sub": [
+        {
+          "subChannelId": 120001,
+          "tid": 2001,
+          "route": "commentary",
+          "name": "影视解读",
+          "url": ""
+        },
+        {
+          "subChannelId": 120002,
+          "tid": 2002,
+          "route": "montage",
+          "name": "影视剪辑",
+          "url": ""
+        },
+        {
+          "subChannelId": 120003,
+          "tid": 2003,
+          "route": "information",
+          "name": "影视资讯",
+          "url": ""
+        },
+        {
+          "subChannelId": 120004,
+          "tid": 2004,
+          "route": "porterage",
+          "name": "影视正片搬运",
+          "url": ""
+        },
+        {
+          "subChannelId": 120005,
+          "tid": 2005,
+          "route": "shortfilm",
+          "name": "短剧短片",
+          "url": ""
+        },
+        {
+          "subChannelId": 120006,
+          "tid": 2006,
+          "route": "ai",
+          "name": "AI影视",
+          "url": ""
+        },
+        {
+          "subChannelId": 120007,
+          "tid": 2007,
+          "route": "reaction",
+          "name": "影视reaction",
+          "url": ""
+        },
+        {
+          "subChannelId": 120008,
+          "tid": 2008,
+          "route": "other",
+          "name": "影视综合",
+          "url": ""
+        }
+      ],
+      "config": {
+        "enableSub": 0
+      }
+    },
+    {
+      "channelId": 11,
+      "tid": 1004,
+      "route": "dance",
+      "name": "舞蹈",
+      "url": "//www.bilibili.com/c/dance/",
+      "icon": "homeicon/dance/1",
+      "sub": [
+        {
+          "subChannelId": 110001,
+          "tid": 2028,
+          "route": "otaku",
+          "name": "宅舞",
+          "url": ""
+        },
+        {
+          "subChannelId": 110002,
+          "tid": 2029,
+          "route": "hiphop",
+          "name": "街舞",
+          "url": ""
+        },
+        {
+          "subChannelId": 110003,
+          "tid": 2030,
+          "route": "gestures",
+          "name": "颜值·网红舞",
+          "url": ""
+        },
+        {
+          "subChannelId": 110004,
+          "tid": 2031,
+          "route": "star",
+          "name": "明星舞蹈",
+          "url": ""
+        },
+        {
+          "subChannelId": 110005,
+          "tid": 2032,
+          "route": "china",
+          "name": "国风舞蹈",
+          "url": ""
+        },
+        {
+          "subChannelId": 110006,
+          "tid": 2033,
+          "route": "tutorial",
+          "name": "舞蹈教学",
+          "url": ""
+        },
+        {
+          "subChannelId": 110007,
+          "tid": 2034,
+          "route": "ballet",
+          "name": "芭蕾舞",
+          "url": ""
+        },
+        {
+          "subChannelId": 110008,
+          "tid": 2035,
+          "route": "wota",
+          "name": "wota艺",
+          "url": ""
+        },
+        {
+          "subChannelId": 110009,
+          "tid": 2036,
+          "route": "other",
+          "name": "舞蹈综合",
+          "url": ""
+        }
+      ],
+      "config": {
+        "enableSub": 0
+      }
+    },
+    {
+      "channelId": 7,
+      "tid": 1005,
+      "route": "douga",
+      "name": "动画",
+      "url": "//www.bilibili.com/c/douga/",
+      "icon": "homeicon/douga/1",
+      "sub": [
+        {
+          "subChannelId": 70001,
+          "tid": 2037,
+          "route": "fan_anime",
+          "name": "同人动画",
+          "url": ""
+        },
+        {
+          "subChannelId": 70002,
+          "tid": 2038,
+          "route": "garage_kit",
+          "name": "模玩周边",
+          "url": ""
+        },
+        {
+          "subChannelId": 70003,
+          "tid": 2039,
+          "route": "cosplay",
+          "name": "cosplay",
+          "url": ""
+        },
+        {
+          "subChannelId": 70004,
+          "tid": 2040,
+          "route": "offline",
+          "name": "二次元线下",
+          "url": ""
+        },
+        {
+          "subChannelId": 70005,
+          "tid": 2041,
+          "route": "editing",
+          "name": "动漫剪辑",
+          "url": ""
+        },
+        {
+          "subChannelId": 70006,
+          "tid": 2042,
+          "route": "commentary",
+          "name": "动漫评论",
+          "url": ""
+        },
+        {
+          "subChannelId": 70007,
+          "tid": 2043,
+          "route": "quick_view",
+          "name": "动漫速读",
+          "url": ""
+        },
+        {
+          "subChannelId": 70008,
+          "tid": 2044,
+          "route": "voice",
+          "name": "动漫配音",
+          "url": ""
+        },
+        {
+          "subChannelId": 70009,
+          "tid": 2045,
+          "route": "information",
+          "name": "动漫资讯",
+          "url": ""
+        },
+        {
+          "subChannelId": 70010,
+          "tid": 2046,
+          "route": "interpret",
+          "name": "网文解读",
+          "url": ""
+        },
+        {
+          "subChannelId": 70011,
+          "tid": 2047,
+          "route": "vup",
+          "name": "虚拟up主",
+          "url": ""
+        },
+        {
+          "subChannelId": 70012,
+          "tid": 2048,
+          "route": "tokusatsu",
+          "name": "特摄",
+          "url": ""
+        },
+        {
+          "subChannelId": 70013,
+          "tid": 2049,
+          "route": "puppetry",
+          "name": "布袋戏",
+          "url": ""
+        },
+        {
+          "subChannelId": 70014,
+          "tid": 2050,
+          "route": "comic",
+          "name": "漫画·动态漫",
+          "url": ""
+        },
+        {
+          "subChannelId": 70015,
+          "tid": 2051,
+          "route": "motion",
+          "name": "广播剧",
+          "url": ""
+        },
+        {
+          "subChannelId": 70016,
+          "tid": 2052,
+          "route": "reaction",
+          "name": "动漫reaction",
+          "url": ""
+        },
+        {
+          "subChannelId": 70017,
+          "tid": 2053,
+          "route": "tutorial",
+          "name": "动漫教学",
+          "url": ""
+        },
+        {
+          "subChannelId": 70018,
+          "tid": 2054,
+          "route": "other",
+          "name": "二次元其他",
+          "url": ""
+        }
+      ],
+      "config": {
+        "enableSub": 0
+      }
+    },
+    {
+      "channelId": 34,
+      "tid": 1027,
+      "route": "emotion",
+      "name": "情感",
+      "url": "//www.bilibili.com/c/emotion/",
+      "icon": "homeicon/emotion/1",
+      "sub": [
+        {
+          "subChannelId": 340001,
+          "tid": 2185,
+          "route": "family",
+          "name": "家庭关系",
+          "url": ""
+        },
+        {
+          "subChannelId": 340002,
+          "tid": 2186,
+          "route": "romantic",
+          "name": "恋爱关系",
+          "url": ""
+        },
+        {
+          "subChannelId": 340003,
+          "tid": 2187,
+          "route": "interpersonal",
+          "name": "人际关系",
+          "url": ""
+        },
+        {
+          "subChannelId": 340004,
+          "tid": 2188,
+          "route": "growth",
+          "name": "自我成长",
+          "url": ""
+        }
+      ],
+      "config": {
+        "enableSub": 0
+      }
+    },
+    {
+      "channelId": 13,
+      "tid": 1002,
+      "route": "ent",
+      "name": "娱乐",
+      "url": "//www.bilibili.com/c/ent/",
+      "icon": "homeicon/entertainment/1",
+      "sub": [
+        {
+          "subChannelId": 130001,
+          "tid": 2009,
+          "route": "commentary",
+          "name": "娱乐评论",
+          "url": ""
+        },
+        {
+          "subChannelId": 130002,
+          "tid": 2010,
+          "route": "montage",
+          "name": "明星剪辑",
+          "url": ""
+        },
+        {
+          "subChannelId": 130003,
+          "tid": 2011,
+          "route": "fans_video",
+          "name": "娱乐饭拍&现场",
+          "url": ""
+        },
+        {
+          "subChannelId": 130004,
+          "tid": 2012,
+          "route": "information",
+          "name": "娱乐资讯",
+          "url": ""
+        },
+        {
+          "subChannelId": 130005,
+          "tid": 2013,
+          "route": "reaction",
+          "name": "娱乐reaction",
+          "url": ""
+        },
+        {
+          "subChannelId": 130006,
+          "tid": 2014,
+          "route": "variety",
+          "name": "娱乐综艺正片",
+          "url": ""
+        },
+        {
+          "subChannelId": 130007,
+          "tid": 2015,
+          "route": "other",
+          "name": "娱乐综合",
+          "url": ""
+        }
+      ],
+      "config": {
+        "enableSub": 0
+      }
+    },
+    {
+      "channelId": 20,
+      "tid": 1014,
+      "route": "fashion",
+      "name": "时尚美妆",
+      "url": "//www.bilibili.com/c/fashion/",
+      "icon": "homeicon/fashion/1",
+      "sub": [
+        {
+          "subChannelId": 200001,
+          "tid": 2111,
+          "route": "makeup",
+          "name": "美妆",
+          "url": ""
+        },
+        {
+          "subChannelId": 200002,
+          "tid": 2112,
+          "route": "skincare",
+          "name": "护肤",
+          "url": ""
+        },
+        {
+          "subChannelId": 200003,
+          "tid": 2113,
+          "route": "cos",
+          "name": "仿装cos",
+          "url": ""
+        },
+        {
+          "subChannelId": 200004,
+          "tid": 2114,
+          "route": "outfits",
+          "name": "鞋服穿搭",
+          "url": ""
+        },
+        {
+          "subChannelId": 200005,
+          "tid": 2115,
+          "route": "accessories",
+          "name": "箱包配饰",
+          "url": ""
+        },
+        {
+          "subChannelId": 200006,
+          "tid": 2116,
+          "route": "jewelry",
+          "name": "珠宝首饰",
+          "url": ""
+        },
+        {
+          "subChannelId": 200007,
+          "tid": 2117,
+          "route": "trick",
+          "name": "三坑",
+          "url": ""
+        },
+        {
+          "subChannelId": 200008,
+          "tid": 2118,
+          "route": "commentary",
+          "name": "时尚解读",
+          "url": ""
+        },
+        {
+          "subChannelId": 200009,
+          "tid": 2119,
+          "route": "other",
+          "name": "时尚综合",
+          "url": ""
+        }
+      ],
+      "config": {
+        "enableSub": 0
+      }
+    },
+    {
+      "channelId": 17,
+      "tid": 1020,
+      "route": "food",
+      "name": "美食",
+      "url": "//www.bilibili.com/c/food/",
+      "icon": "homeicon/food/1",
+      "sub": [
+        {
+          "subChannelId": 170001,
+          "tid": 2149,
+          "route": "make",
+          "name": "美食制作",
+          "url": ""
+        },
+        {
+          "subChannelId": 170002,
+          "tid": 2150,
+          "route": "detective",
+          "name": "美食探店",
+          "url": ""
+        },
+        {
+          "subChannelId": 170003,
+          "tid": 2151,
+          "route": "commentary",
+          "name": "美食测评",
+          "url": ""
+        },
+        {
+          "subChannelId": 170004,
+          "tid": 2152,
+          "route": "record",
+          "name": "美食记录",
+          "url": ""
+        },
+        {
+          "subChannelId": 170005,
+          "tid": 2153,
+          "route": "other",
+          "name": "美食综合",
+          "url": ""
+        }
+      ],
+      "config": {
+        "enableSub": 0
+      }
+    },
+    {
+      "channelId": 8,
+      "tid": 1008,
+      "route": "game",
+      "name": "游戏",
+      "url": "//www.bilibili.com/c/game/",
+      "icon": "homeicon/game/1",
+      "sub": [
+        {
+          "subChannelId": 80001,
+          "tid": 2064,
+          "route": "rpg",
+          "name": "单人RPG游戏",
+          "url": ""
+        },
+        {
+          "subChannelId": 80002,
+          "tid": 2065,
+          "route": "mmorpg",
+          "name": "MMORPG游戏",
+          "url": ""
+        },
+        {
+          "subChannelId": 80003,
+          "tid": 2066,
+          "route": "stand_alone",
+          "name": "单机主机类游戏",
+          "url": ""
+        },
+        {
+          "subChannelId": 80004,
+          "tid": 2067,
+          "route": "slg",
+          "name": "SLG游戏",
+          "url": ""
+        },
+        {
+          "subChannelId": 80005,
+          "tid": 2068,
+          "route": "tbs",
+          "name": "回合制策略游戏",
+          "url": ""
+        },
+        {
+          "subChannelId": 80006,
+          "tid": 2069,
+          "route": "rts",
+          "name": "即时策略游戏",
+          "url": ""
+        },
+        {
+          "subChannelId": 80007,
+          "tid": 2070,
+          "route": "moba",
+          "name": "MOBA游戏",
+          "url": ""
+        },
+        {
+          "subChannelId": 80008,
+          "tid": 2071,
+          "route": "stg",
+          "name": "射击游戏",
+          "url": ""
+        },
+        {
+          "subChannelId": 80009,
+          "tid": 2072,
+          "route": "spg",
+          "name": "体育竞速游戏",
+          "url": ""
+        },
+        {
+          "subChannelId": 80010,
+          "tid": 2073,
+          "route": "act",
+          "name": "动作竞技游戏",
+          "url": ""
+        },
+        {
+          "subChannelId": 80011,
+          "tid": 2074,
+          "route": "msc",
+          "name": "音游舞游",
+          "url": ""
+        },
+        {
+          "subChannelId": 80012,
+          "tid": 2075,
+          "route": "sim",
+          "name": "模拟经营游戏",
+          "url": ""
+        },
+        {
+          "subChannelId": 80013,
+          "tid": 2076,
+          "route": "otome",
+          "name": "女性向游戏",
+          "url": ""
+        },
+        {
+          "subChannelId": 80014,
+          "tid": 2077,
+          "route": "puz",
+          "name": "休闲/小游戏",
+          "url": ""
+        },
+        {
+          "subChannelId": 80015,
+          "tid": 2078,
+          "route": "sandbox",
+          "name": "沙盒类",
+          "url": ""
+        },
+        {
+          "subChannelId": 80016,
+          "tid": 2079,
+          "route": "other",
+          "name": "其他游戏",
+          "url": ""
+        }
+      ],
+      "config": {
+        "enableSub": 0
+      }
+    },
+    {
+      "channelId": 28,
+      "tid": 1017,
+      "route": "gym",
+      "name": "健身",
+      "url": "//www.bilibili.com/c/gym/",
+      "icon": "homeicon/gym/1",
+      "sub": [
+        {
+          "subChannelId": 280001,
+          "tid": 2128,
+          "route": "science",
+          "name": "健身科普",
+          "url": ""
+        },
+        {
+          "subChannelId": 280002,
+          "tid": 2129,
+          "route": "tutorial",
+          "name": "健身跟练教学",
+          "url": ""
+        },
+        {
+          "subChannelId": 280003,
+          "tid": 2130,
+          "route": "record",
+          "name": "健身记录",
+          "url": ""
+        },
+        {
+          "subChannelId": 280004,
+          "tid": 2131,
+          "route": "figure",
+          "name": "健身身材展示",
+          "url": ""
+        },
+        {
+          "subChannelId": 280005,
+          "tid": 2132,
+          "route": "other",
+          "name": "健身综合",
+          "url": ""
+        }
+      ],
+      "config": {
+        "enableSub": 0
+      }
+    },
+    {
+      "channelId": 29,
+      "tid": 1019,
+      "route": "handmake",
+      "name": "手工",
+      "url": "//www.bilibili.com/c/handmake/",
+      "icon": "homeicon/handmake/1",
+      "sub": [
+        {
+          "subChannelId": 290001,
+          "tid": 2143,
+          "route": "handbook",
+          "name": "文具手帐",
+          "url": ""
+        },
+        {
+          "subChannelId": 290002,
+          "tid": 2144,
+          "route": "light",
+          "name": "轻手作",
+          "url": ""
+        },
+        {
+          "subChannelId": 290003,
+          "tid": 2145,
+          "route": "traditional",
+          "name": "传统手工艺",
+          "url": ""
+        },
+        {
+          "subChannelId": 290004,
+          "tid": 2146,
+          "route": "relief",
+          "name": "解压手工",
+          "url": ""
+        },
+        {
+          "subChannelId": 290005,
+          "tid": 2147,
+          "route": "diy",
+          "name": "DIY玩具",
+          "url": ""
+        },
+        {
+          "subChannelId": 290006,
+          "tid": 2148,
+          "route": "other",
+          "name": "其他手工",
+          "url": ""
+        }
+      ],
+      "config": {
+        "enableSub": 0
+      }
+    },
+    {
+      "channelId": 33,
+      "tid": 1026,
+      "route": "health",
+      "name": "健康",
+      "url": "//www.bilibili.com/c/health/",
+      "icon": "homeicon/health/1",
+      "sub": [
+        {
+          "subChannelId": 330001,
+          "tid": 2179,
+          "route": "science",
+          "name": "健康科普",
+          "url": ""
+        },
+        {
+          "subChannelId": 330002,
+          "tid": 2180,
+          "route": "regimen",
+          "name": "养生",
+          "url": ""
+        },
+        {
+          "subChannelId": 330003,
+          "tid": 2181,
+          "route": "sexes",
+          "name": "两性知识",
+          "url": ""
+        },
+        {
+          "subChannelId": 330004,
+          "tid": 2182,
+          "route": "psychology",
+          "name": "心理健康",
+          "url": ""
+        },
+        {
+          "subChannelId": 330005,
+          "tid": 2183,
+          "route": "asmr",
+          "name": "助眠视频·ASMR",
+          "url": ""
+        },
+        {
+          "subChannelId": 330006,
+          "tid": 2184,
+          "route": "other",
+          "name": "医疗保健综合",
+          "url": ""
+        }
+      ],
+      "config": {
+        "enableSub": 0
+      }
+    },
+    {
+      "channelId": 26,
+      "tid": 1015,
+      "route": "home",
+      "name": "家装房产",
+      "url": "//www.bilibili.com/c/home/",
+      "icon": "homeicon/home/1",
+      "sub": [
+        {
+          "subChannelId": 260001,
+          "tid": 2120,
+          "route": "trade",
+          "name": "买房租房",
+          "url": ""
+        },
+        {
+          "subChannelId": 260002,
+          "tid": 2121,
+          "route": "renovation",
+          "name": "家庭装修",
+          "url": ""
+        },
+        {
+          "subChannelId": 260003,
+          "tid": 2122,
+          "route": "furniture",
+          "name": "家居展示",
+          "url": ""
+        },
+        {
+          "subChannelId": 260004,
+          "tid": 2123,
+          "route": "appliances",
+          "name": "家用电器",
+          "url": ""
+        }
+      ],
+      "config": {
+        "enableSub": 0
+      }
+    },
+    {
+      "channelId": 16,
+      "tid": 1009,
+      "route": "information",
+      "name": "资讯",
+      "url": "//www.bilibili.com/c/information/",
+      "icon": "homeicon/information/1",
+      "sub": [
+        {
+          "subChannelId": 160001,
+          "tid": 2080,
+          "route": "politics",
+          "name": "时政资讯",
+          "url": ""
+        },
+        {
+          "subChannelId": 160002,
+          "tid": 2081,
+          "route": "overseas",
+          "name": "海外资讯",
+          "url": ""
+        },
+        {
+          "subChannelId": 160003,
+          "tid": 2082,
+          "route": "social",
+          "name": "社会资讯",
+          "url": ""
+        },
+        {
+          "subChannelId": 160004,
+          "tid": 2083,
+          "route": "other",
+          "name": "综合资讯",
+          "url": ""
+        }
+      ],
+      "config": {
+        "enableSub": 0
+      }
+    },
+    {
+      "channelId": 9,
+      "tid": 1007,
+      "route": "kichiku",
+      "name": "鬼畜",
+      "url": "//www.bilibili.com/c/kichiku/",
+      "icon": "homeicon/kichiku/1",
+      "sub": [
+        {
+          "subChannelId": 90001,
+          "tid": 2059,
+          "route": "guide",
+          "name": "鬼畜调教",
+          "url": ""
+        },
+        {
+          "subChannelId": 90002,
+          "tid": 2060,
+          "route": "theatre",
+          "name": "鬼畜剧场",
+          "url": ""
+        },
+        {
+          "subChannelId": 90003,
+          "tid": 2061,
+          "route": "manual_vocaloid",
+          "name": "人力VOCALOID",
+          "url": ""
+        },
+        {
+          "subChannelId": 90004,
+          "tid": 2062,
+          "route": "mad",
+          "name": "音MAD",
+          "url": ""
+        },
+        {
+          "subChannelId": 90005,
+          "tid": 2063,
+          "route": "other",
+          "name": "鬼畜综合",
+          "url": ""
+        }
+      ],
+      "config": {
+        "enableSub": 0
+      }
+    },
+    {
+      "channelId": 14,
+      "tid": 1010,
+      "route": "knowledge",
+      "name": "知识",
+      "url": "//www.bilibili.com/c/knowledge/",
+      "icon": "homeicon/knowledge/1",
+      "sub": [
+        {
+          "subChannelId": 140001,
+          "tid": 2084,
+          "route": "exam",
+          "name": "应试教育",
+          "url": ""
+        },
+        {
+          "subChannelId": 140002,
+          "tid": 2085,
+          "route": "lang_skill",
+          "name": "非应试语言学习",
+          "url": ""
+        },
+        {
+          "subChannelId": 140003,
+          "tid": 2086,
+          "route": "campus",
+          "name": "大学专业知识",
+          "url": ""
+        },
+        {
+          "subChannelId": 140004,
+          "tid": 2087,
+          "route": "business",
+          "name": "商业财经",
+          "url": ""
+        },
+        {
+          "subChannelId": 140005,
+          "tid": 2088,
+          "route": "social_observation",
+          "name": "社会观察",
+          "url": ""
+        },
+        {
+          "subChannelId": 140006,
+          "tid": 2089,
+          "route": "politics",
+          "name": "时政解读",
+          "url": ""
+        },
+        {
+          "subChannelId": 140007,
+          "tid": 2090,
+          "route": "humanity_history",
+          "name": "人文历史",
+          "url": ""
+        },
+        {
+          "subChannelId": 140008,
+          "tid": 2091,
+          "route": "design",
+          "name": "设计艺术",
+          "url": ""
+        },
+        {
+          "subChannelId": 140009,
+          "tid": 2092,
+          "route": "psychology",
+          "name": "心理杂谈",
+          "url": ""
+        },
+        {
+          "subChannelId": 140010,
+          "tid": 2093,
+          "route": "career",
+          "name": "职场发展",
+          "url": ""
+        },
+        {
+          "subChannelId": 140011,
+          "tid": 2094,
+          "route": "science",
+          "name": "科学科普",
+          "url": ""
+        },
+        {
+          "subChannelId": 140012,
+          "tid": 2095,
+          "route": "other",
+          "name": "其他知识杂谈",
+          "url": ""
+        }
+      ],
+      "config": {
+        "enableSub": 0
+      }
+    },
+    {
+      "channelId": 36,
+      "tid": 1031,
+      "route": "life_experience",
+      "name": "生活经验",
+      "url": "//www.bilibili.com/c/life_experience/",
+      "icon": "homeicon/life_experience/1",
+      "sub": [
+        {
+          "subChannelId": 360001,
+          "tid": 2203,
+          "route": "skills",
+          "name": "生活技能",
+          "url": ""
+        },
+        {
+          "subChannelId": 360002,
+          "tid": 2204,
+          "route": "procedures",
+          "name": "办事流程",
+          "url": ""
+        },
+        {
+          "subChannelId": 360003,
+          "tid": 2205,
+          "route": "marriage",
+          "name": "婚嫁",
+          "url": ""
+        }
+      ],
+      "config": {
+        "enableSub": 0
+      }
+    },
+    {
+      "channelId": 35,
+      "tid": 1030,
+      "route": "life_joy",
+      "name": "生活兴趣",
+      "url": "//www.bilibili.com/c/life_joy/",
+      "icon": "homeicon/life_joy/1",
+      "sub": [
+        {
+          "subChannelId": 350001,
+          "tid": 2198,
+          "route": "leisure",
+          "name": "休闲玩乐",
+          "url": ""
+        },
+        {
+          "subChannelId": 350002,
+          "tid": 2199,
+          "route": "on_site",
+          "name": "线下演出",
+          "url": ""
+        },
+        {
+          "subChannelId": 350003,
+          "tid": 2200,
+          "route": "artistic_products",
+          "name": "文玩文创",
+          "url": ""
+        },
+        {
+          "subChannelId": 350004,
+          "tid": 2201,
+          "route": "trendy_toys",
+          "name": "潮玩玩具",
+          "url": ""
+        },
+        {
+          "subChannelId": 350005,
+          "tid": 2202,
+          "route": "other",
+          "name": "兴趣综合",
+          "url": ""
+        }
+      ],
+      "config": {
+        "enableSub": 0
+      }
+    },
+    {
+      "channelId": 10,
+      "tid": 1003,
+      "route": "music",
+      "name": "音乐",
+      "url": "//www.bilibili.com/c/music/",
+      "icon": "homeicon/music/1",
+      "sub": [
+        {
+          "subChannelId": 100001,
+          "tid": 2016,
+          "route": "original",
+          "name": "原创音乐",
+          "url": ""
+        },
+        {
+          "subChannelId": 100002,
+          "tid": 2017,
+          "route": "mv",
+          "name": "MV",
+          "url": ""
+        },
+        {
+          "subChannelId": 100003,
+          "tid": 2018,
+          "route": "live",
+          "name": "音乐现场",
+          "url": ""
+        },
+        {
+          "subChannelId": 100004,
+          "tid": 2019,
+          "route": "fan_videos",
+          "name": "乐迷饭拍",
+          "url": ""
+        },
+        {
+          "subChannelId": 100005,
+          "tid": 2020,
+          "route": "cover",
+          "name": "翻唱",
+          "url": ""
+        },
+        {
+          "subChannelId": 100006,
+          "tid": 2021,
+          "route": "perform",
+          "name": "演奏",
+          "url": ""
+        },
+        {
+          "subChannelId": 100007,
+          "tid": 2022,
+          "route": "vocaloid",
+          "name": "VOCALOID",
+          "url": ""
+        },
+        {
+          "subChannelId": 100008,
+          "tid": 2023,
+          "route": "ai_music",
+          "name": "AI音乐",
+          "url": ""
+        },
+        {
+          "subChannelId": 100009,
+          "tid": 2024,
+          "route": "radio",
+          "name": "电台·歌单",
+          "url": ""
+        },
+        {
+          "subChannelId": 100010,
+          "tid": 2025,
+          "route": "tutorial",
+          "name": "音乐教学",
+          "url": ""
+        },
+        {
+          "subChannelId": 100011,
+          "tid": 2026,
+          "route": "commentary",
+          "name": "乐评盘点",
+          "url": ""
+        },
+        {
+          "subChannelId": 100012,
+          "tid": 2027,
+          "route": "other",
+          "name": "音乐综合",
+          "url": ""
+        }
+      ],
+      "config": {
+        "enableSub": 0
+      }
+    },
+    {
+      "channelId": 44,
+      "tid": 1028,
+      "route": "mysticism",
+      "name": "神秘学",
+      "url": "//www.bilibili.com/c/mysticism/",
+      "icon": "",
+      "sub": [
+        {
+          "subChannelId": 440001,
+          "tid": 2189,
+          "route": "tarot",
+          "name": "塔罗占卜",
+          "url": ""
+        },
+        {
+          "subChannelId": 440002,
+          "tid": 2190,
+          "route": "horoscope",
+          "name": "星座占星",
+          "url": ""
+        },
+        {
+          "subChannelId": 440003,
+          "tid": 2191,
+          "route": "metaphysics",
+          "name": "传统玄学",
+          "url": ""
+        },
+        {
+          "subChannelId": 440004,
+          "tid": 2192,
+          "route": "healing",
+          "name": "疗愈成长",
+          "url": ""
+        },
+        {
+          "subChannelId": 440005,
+          "tid": 2193,
+          "route": "other",
+          "name": "其他神秘学",
+          "url": ""
+        }
+      ],
+      "config": {
+        "enableSub": 0
+      }
+    },
+    {
+      "channelId": 27,
+      "tid": 1016,
+      "route": "outdoors",
+      "name": "户外潮流",
+      "url": "//www.bilibili.com/c/outdoors/",
+      "icon": "homeicon/outdoors/1",
+      "sub": [
+        {
+          "subChannelId": 270001,
+          "tid": 2124,
+          "route": "camping",
+          "name": "露营",
+          "url": ""
+        },
+        {
+          "subChannelId": 270002,
+          "tid": 2125,
+          "route": "hiking",
+          "name": "徒步",
+          "url": ""
+        },
+        {
+          "subChannelId": 270003,
+          "tid": 2126,
+          "route": "explore",
+          "name": "户外探秘",
+          "url": ""
+        },
+        {
+          "subChannelId": 270004,
+          "tid": 2127,
+          "route": "other",
+          "name": "户外综合",
+          "url": ""
+        }
+      ],
+      "config": {
+        "enableSub": 0
+      }
+    },
+    {
+      "channelId": 24,
+      "tid": 1006,
+      "route": "painting",
+      "name": "绘画",
+      "url": "//www.bilibili.com/c/painting/",
+      "icon": "homeicon/painting/1",
+      "sub": [
+        {
+          "subChannelId": 240001,
+          "tid": 2055,
+          "route": "acg",
+          "name": "二次元绘画",
+          "url": ""
+        },
+        {
+          "subChannelId": 240002,
+          "tid": 2056,
+          "route": "none_acg",
+          "name": "非二次元绘画",
+          "url": ""
+        },
+        {
+          "subChannelId": 240003,
+          "tid": 2057,
+          "route": "tutorial",
+          "name": "绘画学习",
+          "url": ""
+        },
+        {
+          "subChannelId": 240004,
+          "tid": 2058,
+          "route": "other",
+          "name": "绘画综合",
+          "url": ""
+        }
+      ],
+      "config": {
+        "enableSub": 0
+      }
+    },
+    {
+      "channelId": 32,
+      "tid": 1025,
+      "route": "parenting",
+      "name": "亲子",
+      "url": "//www.bilibili.com/c/parenting/",
+      "icon": "homeicon/parenting/1",
+      "sub": [
+        {
+          "subChannelId": 320001,
+          "tid": 2172,
+          "route": "pregnant_care",
+          "name": "孕产护理",
+          "url": ""
+        },
+        {
+          "subChannelId": 320002,
+          "tid": 2173,
+          "route": "infant_care",
+          "name": "婴幼护理",
+          "url": ""
+        },
+        {
+          "subChannelId": 320003,
+          "tid": 2174,
+          "route": "talent",
+          "name": "儿童才艺",
+          "url": ""
+        },
+        {
+          "subChannelId": 320004,
+          "tid": 2175,
+          "route": "cute",
+          "name": "萌娃",
+          "url": ""
+        },
+        {
+          "subChannelId": 320005,
+          "tid": 2176,
+          "route": "interaction",
+          "name": "亲子互动",
+          "url": ""
+        },
+        {
+          "subChannelId": 320006,
+          "tid": 2177,
+          "route": "education",
+          "name": "亲子教育",
+          "url": ""
+        },
+        {
+          "subChannelId": 320007,
+          "tid": 2178,
+          "route": "other",
+          "name": "亲子综合",
+          "url": ""
+        }
+      ],
+      "config": {
+        "enableSub": 0
+      }
+    },
+    {
+      "channelId": 31,
+      "tid": 1023,
+      "route": "rural",
+      "name": "三农",
+      "url": "//www.bilibili.com/c/rural/",
+      "icon": "homeicon/rural/2",
+      "sub": [
+        {
+          "subChannelId": 310001,
+          "tid": 2162,
+          "route": "planting",
+          "name": "农村种植",
+          "url": ""
+        },
+        {
+          "subChannelId": 310002,
+          "tid": 2163,
+          "route": "fishing",
+          "name": "赶海捕鱼",
+          "url": ""
+        },
+        {
+          "subChannelId": 310003,
+          "tid": 2164,
+          "route": "harvest",
+          "name": "打野采摘",
+          "url": ""
+        },
+        {
+          "subChannelId": 310004,
+          "tid": 2165,
+          "route": "tech",
+          "name": "农业技术",
+          "url": ""
+        },
+        {
+          "subChannelId": 310005,
+          "tid": 2166,
+          "route": "life",
+          "name": "农村生活",
+          "url": ""
+        }
+      ],
+      "config": {
+        "enableSub": 0
+      }
+    },
+    {
+      "channelId": 18,
+      "tid": 1021,
+      "route": "shortplay",
+      "name": "小剧场",
+      "url": "//www.bilibili.com/c/shortplay/",
+      "icon": "homeicon/shortplay/1",
+      "sub": [
+        {
+          "subChannelId": 180001,
+          "tid": 2154,
+          "route": "plot",
+          "name": "剧情演绎",
+          "url": ""
+        },
+        {
+          "subChannelId": 180001,
+          "tid": 2155,
+          "route": "lang",
+          "name": "语言类小剧场",
+          "url": ""
+        },
+        {
+          "subChannelId": 180001,
+          "tid": 2156,
+          "route": "up_variety",
+          "name": "UP主小综艺",
+          "url": ""
+        },
+        {
+          "subChannelId": 180001,
+          "tid": 2157,
+          "route": "interview",
+          "name": "街头采访",
+          "url": ""
+        }
+      ],
+      "config": {
+        "enableSub": 0
+      }
+    },
+    {
+      "channelId": 21,
+      "tid": 1018,
+      "route": "sports",
+      "name": "体育运动",
+      "url": "//www.bilibili.com/c/sports/",
+      "icon": "homeicon/sports/1",
+      "sub": [
+        {
+          "subChannelId": 210001,
+          "tid": 2133,
+          "route": "trend",
+          "name": "潮流运动",
+          "url": ""
+        },
+        {
+          "subChannelId": 210002,
+          "tid": 2134,
+          "route": "football",
+          "name": "足球",
+          "url": ""
+        },
+        {
+          "subChannelId": 210003,
+          "tid": 2135,
+          "route": "basketball",
+          "name": "篮球",
+          "url": ""
+        },
+        {
+          "subChannelId": 210004,
+          "tid": 2136,
+          "route": "running",
+          "name": "跑步",
+          "url": ""
+        },
+        {
+          "subChannelId": 210005,
+          "tid": 2137,
+          "route": "kungfu",
+          "name": "武术",
+          "url": ""
+        },
+        {
+          "subChannelId": 210006,
+          "tid": 2138,
+          "route": "fighting",
+          "name": "格斗",
+          "url": ""
+        },
+        {
+          "subChannelId": 210007,
+          "tid": 2139,
+          "route": "badminton",
+          "name": "羽毛球",
+          "url": ""
+        },
+        {
+          "subChannelId": 210008,
+          "tid": 2140,
+          "route": "information",
+          "name": "体育资讯",
+          "url": ""
+        },
+        {
+          "subChannelId": 210009,
+          "tid": 2141,
+          "route": "match",
+          "name": "体育赛事",
+          "url": ""
+        },
+        {
+          "subChannelId": 210010,
+          "tid": 2142,
+          "route": "other",
+          "name": "体育综合",
+          "url": ""
+        }
+      ],
+      "config": {
+        "enableSub": 0
+      }
+    },
+    {
+      "channelId": 15,
+      "tid": 1012,
+      "route": "tech",
+      "name": "科技数码",
+      "url": "//www.bilibili.com/c/tech/",
+      "icon": "homeicon/tech/1",
+      "sub": [
+        {
+          "subChannelId": 150001,
+          "tid": 2099,
+          "route": "computer",
+          "name": "电脑",
+          "url": ""
+        },
+        {
+          "subChannelId": 150002,
+          "tid": 2100,
+          "route": "phone",
+          "name": "手机",
+          "url": ""
+        },
+        {
+          "subChannelId": 150003,
+          "tid": 2101,
+          "route": "pad",
+          "name": "平板电脑",
+          "url": ""
+        },
+        {
+          "subChannelId": 150004,
+          "tid": 2102,
+          "route": "photography",
+          "name": "摄影摄像",
+          "url": ""
+        },
+        {
+          "subChannelId": 150005,
+          "tid": 2103,
+          "route": "machine",
+          "name": "工程机械",
+          "url": ""
+        },
+        {
+          "subChannelId": 150006,
+          "tid": 2104,
+          "route": "create",
+          "name": "自制发明/设备",
+          "url": ""
+        },
+        {
+          "subChannelId": 150007,
+          "tid": 2105,
+          "route": "other",
+          "name": "科技数码综合",
+          "url": ""
+        }
+      ],
+      "config": {
+        "enableSub": 0
+      }
+    },
+    {
+      "channelId": 30,
+      "tid": 1022,
+      "route": "travel",
+      "name": "旅游出行",
+      "url": "//www.bilibili.com/c/travel/",
+      "icon": "homeicon/travel/1",
+      "sub": [
+        {
+          "subChannelId": 300001,
+          "tid": 2158,
+          "route": "record",
+          "name": "旅游记录",
+          "url": ""
+        },
+        {
+          "subChannelId": 300002,
+          "tid": 2159,
+          "route": "strategy",
+          "name": "旅游攻略",
+          "url": ""
+        },
+        {
+          "subChannelId": 300003,
+          "tid": 2160,
+          "route": "city",
+          "name": "城市出行",
+          "url": ""
+        },
+        {
+          "subChannelId": 300004,
+          "tid": 2161,
+          "route": "transport",
+          "name": "公共交通",
+          "url": ""
+        }
+      ],
+      "config": {
+        "enableSub": 0
+      }
+    },
+    {
+      "channelId": 23,
+      "tid": 1029,
+      "route": "vlog",
+      "name": "vlog",
+      "url": "//www.bilibili.com/c/vlog/",
+      "icon": "homeicon/vlog/1",
+      "sub": [
+        {
+          "subChannelId": 230001,
+          "tid": 2194,
+          "route": "life",
+          "name": "中外生活vlog",
+          "url": ""
+        },
+        {
+          "subChannelId": 230002,
+          "tid": 2195,
+          "route": "student",
+          "name": "学生vlog",
+          "url": ""
+        },
+        {
+          "subChannelId": 230003,
+          "tid": 2196,
+          "route": "career",
+          "name": "职业vlog",
+          "url": ""
+        },
+        {
+          "subChannelId": 230004,
+          "tid": 2197,
+          "route": "other",
+          "name": "其他vlog",
+          "url": ""
+        }
+      ],
+      "config": {
+        "enableSub": 0
+      }
+    }
+  ],
+  "ugcUnloginKv": {
+    "play_limit": {
+      "threshold": 900,
+      "abtest": {
+        "V_VT_1": 30,
+        "V_VT_2": 60
+      }
+    }
+  },
+  "aid": 115293095464736,
+  "bvid": "BV19GnUzcEQL",
+  "cid": 32747750894,
+  "p": 1,
+  "cidMap": {
+    "115293095464736": {
+      "aid": 115293095464736,
+      "bvid": "BV19GnUzcEQL",
+      "cids": {
+        "1": 32747750894
+      }
+    },
+    "BV19GnUzcEQL": {
+      "aid": 115293095464736,
+      "bvid": "BV19GnUzcEQL",
+      "cids": {
+        "1": 32747750894
+      }
+    }
+  },
+  "premiereInfo": null,
+  "user": {},
+  "videoData": {
+    "bvid": "BV19GnUzcEQL",
+    "aid": 115293095464736,
+    "videos": 1,
+    "tid": 218,
+    "tid_v2": 2167,
+    "tname": "喵星人",
+    "tname_v2": "猫",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/5f44e9cad2ce5008784cdbbe4a2061799e50a258.jpg",
+    "title": "喵喵追剧 / 猫咪防抑郁 / 猫片推荐 / 16集",
+    "pubdate": 1760184900,
+    "ctime": 1759233127,
+    "desc": "请铲屎官特别注意保护好屏幕和摄像头 以免被猫猫抓花弄坏哦 ！\n⚠️ 多猫家庭需确保各视角观看无障碍，避免争夺引发冲突\n⚠️ 小心体型大的猫猫把电视推倒！\n视频效果倍增组合拳\n✨ 晨间套餐：喵喵追剧→\n逗猫游戏→ 安抚音乐\n✨ 夜间套餐\n逗猫游戏→ 喵喵追剧→ 安抚音乐\n这样播放视频效果更好 还可以调节猫咪的生物钟哦\n💖非常感谢您的关注和三连这是我最大的动力。",
+    "desc_v2": [
+      {
+        "raw_text": "请铲屎官特别注意保护好屏幕和摄像头 以免被猫猫抓花弄坏哦 ！\n⚠️ 多猫家庭需确保各视角观看无障碍，避免争夺引发冲突\n⚠️ 小心体型大的猫猫把电视推倒！\n视频效果倍增组合拳\n✨ 晨间套餐：喵喵追剧→\n逗猫游戏→ 安抚音乐\n✨ 夜间套餐\n逗猫游戏→ 喵喵追剧→ 安抚音乐\n这样播放视频效果更好 还可以调节猫咪的生物钟哦\n💖非常感谢您的关注和三连这是我最大的动力。",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 2829,
+    "mission_id": 4046017,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 1,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 473534719,
+      "name": "猫狗物语Petdiary",
+      "face": "https://i1.hdslb.com/bfs/face/21159ed6dc5628f93036cb4840634a6bc67548d2.jpg"
+    },
+    "stat": {
+      "aid": 115293095464736,
+      "view": 26018,
+      "danmaku": 15,
+      "reply": 3,
+      "favorite": 268,
+      "coin": 72,
+      "share": 43,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 177,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0,
+      "viewseo": 26018
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 32747750894,
+    "dimension": {
+      "width": 2304,
+      "height": 1440,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 32747750894,
+        "page": 1,
+        "from": "vupload",
+        "part": "喵喵追剧 / 猫咪防抑郁 / 猫片推荐 / 16集",
+        "duration": 2829,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 2304,
+          "height": 1440,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/_00000zeba3gtwazjy2q7fg5skc0hr9b_firsti.jpg",
+        "ctime": 1759233127
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false,
+    "embedPlayer": {
+      "p": 1,
+      "aid": 115293095464736,
+      "bvid": "BV19GnUzcEQL",
+      "cid": 32747750894,
+      "vid": "",
+      "vtype": "vupload",
+      "stats": {
+        "spmId": "333.788.0.0",
+        "spmIdFrom": "333.788.0.0"
+      },
+      "t": 0,
+      "fromDid": null,
+      "featureList": {}
+    }
+  },
+  "availableVideoList": [
+    {
+      "aid": 115293095464736,
+      "bvid": "BV19GnUzcEQL",
+      "cid": 32747750894,
+      "title": "喵喵追剧 / 猫咪防抑郁 / 猫片推荐 / 16集",
+      "cover": "http://i0.hdslb.com/bfs/archive/5f44e9cad2ce5008784cdbbe4a2061799e50a258.jpg",
+      "redirect_url": "",
+      "list": [
+        {
+          "aid": 115293095464736,
+          "bvid": "BV19GnUzcEQL",
+          "cid": 32747750894,
+          "p": 1,
+          "title": "喵喵追剧 / 猫咪防抑郁 / 猫片推荐 / 16集"
+        }
+      ]
+    },
+    {
+      "aid": 709057110,
+      "bvid": "BV1uQ4y1A7NU",
+      "cid": 1413021023,
+      "title": "【CAT TV】专为猫猫制作的高帧率动画片 全自动逗猫神器 养猫必备好物 解放铲屎官双手 给猫看的视频",
+      "cover": "http://i0.hdslb.com/bfs/archive/f3f8b61abe2eb1867c63674d24ef3ff5bdd13c07.jpg",
+      "redirect_url": "",
+      "list": [
+        {
+          "aid": 709057110,
+          "bvid": "BV1uQ4y1A7NU",
+          "cid": 1413021023,
+          "p": 1,
+          "title": "【CAT TV】专为猫猫制作的高帧率动画片 全自动逗猫神器 养猫必备好物 解放铲屎官双手 给猫看的视频"
+        }
+      ]
+    },
+    {
+      "aid": 788997150,
+      "bvid": "BV1tC4y1f7SD",
+      "cid": 1281657265,
+      "title": "给我家猫咪看的动画",
+      "cover": "http://i2.hdslb.com/bfs/archive/e361b4f4eaaa066ce97c6ac654a0d1fd9ed2c5bb.jpg",
+      "redirect_url": "",
+      "list": [
+        {
+          "aid": 788997150,
+          "bvid": "BV1tC4y1f7SD",
+          "cid": 1281657265,
+          "p": 1,
+          "title": "给我家猫咪看的动画"
+        }
+      ]
+    },
+    {
+      "aid": 542381125,
+      "bvid": "BV1pi4y1j7Bn",
+      "cid": 245068689,
+      "title": "逗猫游戏 飞奔的毛线球视频游戏",
+      "cover": "http://i2.hdslb.com/bfs/archive/6c5422ac96f3ad4649c7a39e54505fa31d111a4e.jpg",
+      "redirect_url": "",
+      "list": [
+        {
+          "aid": 542381125,
+          "bvid": "BV1pi4y1j7Bn",
+          "cid": 245068689,
+          "p": 1,
+          "title": "逗猫游戏 飞奔的毛线球视频游戏"
+        }
+      ]
+    },
+    {
+      "aid": 1304427689,
+      "bvid": "BV1JM4m1o7Q4",
+      "cid": 1536504993,
+      "title": "逗猫游戏 / 好玩有趣 / 猫咪心情好不生病",
+      "cover": "http://i1.hdslb.com/bfs/archive/0927e33f3347729e46e91b690ef250d0c05a97df.jpg",
+      "redirect_url": "",
+      "list": [
+        {
+          "aid": 1304427689,
+          "bvid": "BV1JM4m1o7Q4",
+          "cid": 1536504993,
+          "p": 1,
+          "title": "逗猫游戏 / 好玩有趣 / 猫咪心情好不生病"
+        }
+      ]
+    },
+    {
+      "aid": 1953863827,
+      "bvid": "BV1vC411J7hb",
+      "cid": 1526371173,
+      "title": "专为猫咪设计的高帧率大电影 解放铲屎官双手 实现全自动逗猫只需要一个视频",
+      "cover": "http://i0.hdslb.com/bfs/archive/0e17aa260285316c45892ee5bc4ea1333e634e8c.jpg",
+      "redirect_url": "",
+      "list": [
+        {
+          "aid": 1953863827,
+          "bvid": "BV1vC411J7hb",
+          "cid": 1526371173,
+          "p": 1,
+          "title": "专为猫咪设计的高帧率大电影 解放铲屎官双手 实现全自动逗猫只需要一个视频"
+        }
+      ]
+    },
+    {
+      "aid": 319360387,
+      "bvid": "BV1Lw411y7Jp",
+      "cid": 1288731513,
+      "title": "猫爱看的视频 / 树林 /小池塘 /大自然环境声音",
+      "cover": "http://i0.hdslb.com/bfs/archive/863adb94d7583cb976a9bae462e3deb888bfc479.jpg",
+      "redirect_url": "",
+      "list": [
+        {
+          "aid": 319360387,
+          "bvid": "BV1Lw411y7Jp",
+          "cid": 1288731513,
+          "p": 1,
+          "title": "猫爱看的视频 / 树林 /小池塘 /大自然环境声音"
+        }
+      ]
+    },
+    {
+      "aid": 669291633,
+      "bvid": "BV1ta4y177AZ",
+      "cid": 228671574,
+      "title": "猫猫看的视频，亲身实验，猫很喜欢！",
+      "cover": "http://i0.hdslb.com/bfs/archive/f7834ebf6c834d626b3d2dfdc4d346c045d730ca.jpg",
+      "redirect_url": "",
+      "list": [
+        {
+          "aid": 669291633,
+          "bvid": "BV1ta4y177AZ",
+          "cid": 228671574,
+          "p": 1,
+          "title": "猫猫看的视频，亲身实验，猫很喜欢！"
+        }
+      ]
+    },
+    {
+      "aid": 115253685781963,
+      "bvid": "BV1s7J1zTErZ",
+      "cid": 32580961225,
+      "title": "逗猫游戏 / 猫咪开心到飞起 / 零成本养猫",
+      "cover": "http://i2.hdslb.com/bfs/archive/05a1261fd1f0e571bf8def56cfb63c3238bbe2f2.jpg",
+      "redirect_url": "",
+      "list": [
+        {
+          "aid": 115253685781963,
+          "bvid": "BV1s7J1zTErZ",
+          "cid": 32580961225,
+          "p": 1,
+          "title": "逗猫游戏 / 猫咪开心到飞起 / 零成本养猫"
+        }
+      ]
+    },
+    {
+      "aid": 1754011433,
+      "bvid": "BV1d4421f7Nj",
+      "cid": 1529233575,
+      "title": "给猫看的视频 超有趣的有声鬼畜绳子动画  全自动逗猫 解放铲屎官双手的养猫好物",
+      "cover": "http://i0.hdslb.com/bfs/archive/28cb9bb72b883588e0b6bd5d7f09bf81fb26126c.jpg",
+      "redirect_url": "",
+      "list": [
+        {
+          "aid": 1754011433,
+          "bvid": "BV1d4421f7Nj",
+          "cid": 1529233575,
+          "p": 1,
+          "title": "给猫看的视频 超有趣的有声鬼畜绳子动画  全自动逗猫 解放铲屎官双手的养猫好物"
+        }
+      ]
+    },
+    {
+      "aid": 325814493,
+      "bvid": "BV1Qw41137Fz",
+      "cid": 1395771990,
+      "title": "【CAT TV】给猫看的视频 全自动逗猫游戏 解放铲屎官双手 养猫必备好物",
+      "cover": "http://i2.hdslb.com/bfs/archive/6d390edfb92d2f9b9b5e85d606f31c3b39a0c8c7.jpg",
+      "redirect_url": "",
+      "list": [
+        {
+          "aid": 325814493,
+          "bvid": "BV1Qw41137Fz",
+          "cid": 1395771990,
+          "p": 1,
+          "title": "【CAT TV】给猫看的视频 全自动逗猫游戏 解放铲屎官双手 养猫必备好物"
+        }
+      ]
+    },
+    {
+      "aid": 617392365,
+      "bvid": "BV1Y84y1o7Gd",
+      "cid": 1240508855,
+      "title": "n多猫咪亲测有效！猫玩疯啦！给猫看的视频 有声逗猫游戏 0成本养猫好物 猫咪解闷玩具 解放铲屎官双手【CAT TV】",
+      "cover": "http://i0.hdslb.com/bfs/archive/980a09a217e6327e0fa8f729620441536e71a1d9.jpg",
+      "redirect_url": "",
+      "list": [
+        {
+          "aid": 617392365,
+          "bvid": "BV1Y84y1o7Gd",
+          "cid": 1240508855,
+          "p": 1,
+          "title": "n多猫咪亲测有效！猫玩疯啦！给猫看的视频 有声逗猫游戏 0成本养猫好物 猫咪解闷玩具 解放铲屎官双手【CAT TV】"
+        }
+      ]
+    },
+    {
+      "aid": 1000503265,
+      "bvid": "BV1Ux4y117zQ",
+      "cid": 1442053572,
+      "title": "【养猫必备】亲测猫咪超看爱！给猫看的视频（台球桌篇）逗猫解放双手 0成本逗猫好物 2023-(1080p)",
+      "cover": "http://i0.hdslb.com/bfs/archive/fbabd237c4656b994a055bff1231409e66ed56bc.jpg",
+      "redirect_url": "",
+      "list": [
+        {
+          "aid": 1000503265,
+          "bvid": "BV1Ux4y117zQ",
+          "cid": 1442053572,
+          "p": 1,
+          "title": "【养猫必备】亲测猫咪超看爱！给猫看的视频（台球桌篇）逗猫解放双手 0成本逗猫好物 2023-(1080p)"
+        }
+      ]
+    },
+    {
+      "aid": 113073620779437,
+      "bvid": "BV1c4H4edEtq",
+      "cid": 25722095025,
+      "title": "猫爱看的视频 / 喵星人也追剧",
+      "cover": "http://i2.hdslb.com/bfs/archive/c38e158365dbce40c8ceccd9803629f3a8f2fca3.jpg",
+      "redirect_url": "",
+      "list": [
+        {
+          "aid": 113073620779437,
+          "bvid": "BV1c4H4edEtq",
+          "cid": 25722095025,
+          "p": 1,
+          "title": "猫爱看的视频 / 喵星人也追剧"
+        }
+      ]
+    },
+    {
+      "aid": 280644119,
+      "bvid": "BV1uc411R7FS",
+      "cid": 1326682171,
+      "title": "给猫猫看的动画片（三）（猫超爱）",
+      "cover": "http://i1.hdslb.com/bfs/archive/55026b89ba4900c4c7d8ebf31bd2c597685c5453.jpg",
+      "redirect_url": "",
+      "list": [
+        {
+          "aid": 280644119,
+          "bvid": "BV1uc411R7FS",
+          "cid": 1326682171,
+          "p": 1,
+          "title": "给猫猫看的动画片（三）（猫超爱）"
+        }
+      ]
+    },
+    {
+      "aid": 114245576427068,
+      "bvid": "BV1KwZPY3EXk",
+      "cid": 29132655045,
+      "title": "逗猫玩 老鼠强攻",
+      "cover": "http://i2.hdslb.com/bfs/archive/c8f846f94a6bdefef7b81a011818835e1aae5e02.jpg",
+      "redirect_url": "",
+      "list": [
+        {
+          "aid": 114245576427068,
+          "bvid": "BV1KwZPY3EXk",
+          "cid": 29132655045,
+          "p": 1,
+          "title": "逗猫玩 老鼠强攻"
+        }
+      ]
+    },
+    {
+      "aid": 881247488,
+      "bvid": "BV1bK4y1z7t8",
+      "cid": 1404033671,
+      "title": "【CAT TV 】解放铲屎官双手 全自动逗猫游戏 逗猫视频 给猫看的视频 猫咪互动游戏",
+      "cover": "http://i1.hdslb.com/bfs/archive/4a7155679484cdb2a1e5895e746d9103e844547f.jpg",
+      "redirect_url": "",
+      "list": [
+        {
+          "aid": 881247488,
+          "bvid": "BV1bK4y1z7t8",
+          "cid": 1404033671,
+          "p": 1,
+          "title": "【CAT TV 】解放铲屎官双手 全自动逗猫游戏 逗猫视频 给猫看的视频 猫咪互动游戏"
+        }
+      ]
+    },
+    {
+      "aid": 1050298602,
+      "bvid": "BV1GH4y1Y79u",
+      "cid": 1433297750,
+      "title": "猫咪爱看的动画片！自动逗猫～乱跑的老鼠逗猫棒！猫猫爱看！逗猫棒纯享版",
+      "cover": "http://i0.hdslb.com/bfs/archive/72b29298cefe8fa4b0bf6e7dea9fe72921d10fd5.jpg",
+      "redirect_url": "",
+      "list": [
+        {
+          "aid": 1050298602,
+          "bvid": "BV1GH4y1Y79u",
+          "cid": 1433297750,
+          "p": 1,
+          "title": "猫咪爱看的动画片！自动逗猫～乱跑的老鼠逗猫棒！猫猫爱看！逗猫棒纯享版"
+        }
+      ]
+    },
+    {
+      "aid": 113776049262095,
+      "bvid": "BV1rKrMYKEAd",
+      "cid": 27717930158,
+      "title": "逗猫游戏 / 没有一只小猫能拒绝玩这个😺",
+      "cover": "http://i0.hdslb.com/bfs/archive/d19d9ec1bb6e5cf5f286df1a7559aac133c6180b.jpg",
+      "redirect_url": "",
+      "list": [
+        {
+          "aid": 113776049262095,
+          "bvid": "BV1rKrMYKEAd",
+          "cid": 27717930158,
+          "p": 1,
+          "title": "逗猫游戏 / 没有一只小猫能拒绝玩这个😺"
+        }
+      ]
+    },
+    {
+      "aid": 742003012,
+      "bvid": "BV1sk4y1p7vy",
+      "cid": 1156961431,
+      "title": "逗猫游戏 /猫的欢乐时光 /翻滚的乒乓球",
+      "cover": "http://i1.hdslb.com/bfs/archive/7475fd42ad2f716673ce638dc1b6df14b97fc8ff.jpg",
+      "redirect_url": "",
+      "list": [
+        {
+          "aid": 742003012,
+          "bvid": "BV1sk4y1p7vy",
+          "cid": 1156961431,
+          "p": 1,
+          "title": "逗猫游戏 /猫的欢乐时光 /翻滚的乒乓球"
+        }
+      ]
+    },
+    {
+      "aid": 1850575499,
+      "bvid": "BV1dp421R7B5",
+      "cid": 1439434051,
+      "title": "猫爱看的视频 / 喵宅家无聊 /快给他看视频",
+      "cover": "http://i0.hdslb.com/bfs/archive/35324e045f7b14d07b6ceb44b38f297dcc131c5e.jpg",
+      "redirect_url": "",
+      "list": [
+        {
+          "aid": 1850575499,
+          "bvid": "BV1dp421R7B5",
+          "cid": 1439434051,
+          "p": 1,
+          "title": "猫爱看的视频 / 喵宅家无聊 /快给他看视频"
+        }
+      ]
+    },
+    {
+      "aid": 1456487971,
+      "bvid": "BV1mi4216734",
+      "cid": 1625629169,
+      "title": "据说聪明的小猫看了会有反应哦！全自动逗猫神器  解放铲屎官双手的养猫好物 给猫看的视频 cat tv",
+      "cover": "http://i2.hdslb.com/bfs/archive/eb2e83fd00e49137a6cd5cea26ea73dbec06a7c1.jpg",
+      "redirect_url": "",
+      "list": [
+        {
+          "aid": 1456487971,
+          "bvid": "BV1mi4216734",
+          "cid": 1625629169,
+          "p": 1,
+          "title": "据说聪明的小猫看了会有反应哦！全自动逗猫神器  解放铲屎官双手的养猫好物 给猫看的视频 cat tv"
+        }
+      ]
+    },
+    {
+      "aid": 1206350599,
+      "bvid": "BV1Pf421B7ds",
+      "cid": 1624624228,
+      "title": "全自动逗猫游戏！养猫必备好物！猫咪爱看的视频 【cat tv】",
+      "cover": "http://i1.hdslb.com/bfs/archive/b59622de691a417494c4813333c7a7a60d2dd8d3.jpg",
+      "redirect_url": "",
+      "list": [
+        {
+          "aid": 1206350599,
+          "bvid": "BV1Pf421B7ds",
+          "cid": 1624624228,
+          "p": 1,
+          "title": "全自动逗猫游戏！养猫必备好物！猫咪爱看的视频 【cat tv】"
+        }
+      ]
+    },
+    {
+      "aid": 113118130799218,
+      "bvid": "BV1QQ4zeREK8",
+      "cid": 25823543464,
+      "title": "逗猫游戏 / 亲测猫咪很爱玩 / 快来试试",
+      "cover": "http://i1.hdslb.com/bfs/archive/c22f66ce3ce734068cd758e64df495e8f3095599.jpg",
+      "redirect_url": "",
+      "list": [
+        {
+          "aid": 113118130799218,
+          "bvid": "BV1QQ4zeREK8",
+          "cid": 25823543464,
+          "p": 1,
+          "title": "逗猫游戏 / 亲测猫咪很爱玩 / 快来试试"
+        }
+      ]
+    },
+    {
+      "aid": 5426078,
+      "bvid": "BV1Ps41117NX",
+      "cid": 8819541,
+      "title": "铲屎官必备！逗猫视频107P大合集 陆续添加中",
+      "cover": "http://i2.hdslb.com/bfs/archive/3d702d222c2e8339bfecce5559dc9a0514915af7.png",
+      "redirect_url": "",
+      "list": [
+        {
+          "aid": 5426078,
+          "bvid": "BV1Ps41117NX",
+          "cid": 8819541,
+          "p": 1,
+          "title": "铲屎官必备！逗猫视频107P大合集 陆续添加中"
+        }
+      ]
+    },
+    {
+      "aid": 1052787951,
+      "bvid": "BV1HH4y1T7YZ",
+      "cid": 1500291087,
+      "title": "逗猫游戏 / 捉麻雀 / 好玩耶/ 快给猫咪安排上",
+      "cover": "http://i1.hdslb.com/bfs/archive/339c0201f4892f4842dd662a83772be316d1a2f3.jpg",
+      "redirect_url": "",
+      "list": [
+        {
+          "aid": 1052787951,
+          "bvid": "BV1HH4y1T7YZ",
+          "cid": 1500291087,
+          "p": 1,
+          "title": "逗猫游戏 / 捉麻雀 / 好玩耶/ 快给猫咪安排上"
+        }
+      ]
+    },
+    {
+      "aid": 536016871,
+      "bvid": "BV1hu411F7gS",
+      "cid": 1335036022,
+      "title": "全自动逗猫游戏视频 解放铲屎官双手 给猫看的视频 亲测猫咪超爱哦 猫咪解闷神器",
+      "cover": "http://i0.hdslb.com/bfs/archive/a712ff2dc46d1861b980b5b526dc3f0ebad10ee4.jpg",
+      "redirect_url": "",
+      "list": [
+        {
+          "aid": 536016871,
+          "bvid": "BV1hu411F7gS",
+          "cid": 1335036022,
+          "p": 1,
+          "title": "全自动逗猫游戏视频 解放铲屎官双手 给猫看的视频 亲测猫咪超爱哦 猫咪解闷神器"
+        }
+      ]
+    },
+    {
+      "aid": 113111705063181,
+      "bvid": "BV1WtpxeFEgK",
+      "cid": 25637886136,
+      "title": "【养猫必备】亲测猫咪超爱看最新篇！给猫看的视频（2024年9月）",
+      "cover": "http://i0.hdslb.com/bfs/archive/8f9fdd2310c0251eb0f5eae011767a8df533e73d.jpg",
+      "redirect_url": "",
+      "list": [
+        {
+          "aid": 113111705063181,
+          "bvid": "BV1WtpxeFEgK",
+          "cid": 25637886136,
+          "p": 1,
+          "title": "【养猫必备】亲测猫咪超爱看最新篇！给猫看的视频（2024年9月）"
+        }
+      ]
+    },
+    {
+      "aid": 1452293422,
+      "bvid": "BV1jq421A7de",
+      "cid": 1483807193,
+      "title": "逗猫游戏 / 毛孩子超喜欢 / 养猫必备",
+      "cover": "http://i1.hdslb.com/bfs/archive/6a30e027e943da415f0ff670ff294b0c17ec89ac.jpg",
+      "redirect_url": "",
+      "list": [
+        {
+          "aid": 1452293422,
+          "bvid": "BV1jq421A7de",
+          "cid": 1483807193,
+          "p": 1,
+          "title": "逗猫游戏 / 毛孩子超喜欢 / 养猫必备"
+        }
+      ]
+    },
+    {
+      "aid": 113033590473726,
+      "bvid": "BV1c3sxefEcL",
+      "cid": 25603542734,
+      "title": "逗猫游戏 / 发光小球加强版 / 听说猫猫都是玩球高手",
+      "cover": "http://i0.hdslb.com/bfs/archive/7bcbe4ae3211dd79ca273efb648d8bd547b903f0.jpg",
+      "redirect_url": "",
+      "list": [
+        {
+          "aid": 113033590473726,
+          "bvid": "BV1c3sxefEcL",
+          "cid": 25603542734,
+          "p": 1,
+          "title": "逗猫游戏 / 发光小球加强版 / 听说猫猫都是玩球高手"
+        }
+      ]
+    },
+    {
+      "aid": 115213923782338,
+      "bvid": "BV1Bjp2zqEsR",
+      "cid": 32423020298,
+      "title": "逗猫游戏 / 自动逗猫 / 带娃神器",
+      "cover": "http://i0.hdslb.com/bfs/archive/8ceff881038536e171daafb8f1075e63a173afe9.jpg",
+      "redirect_url": "",
+      "list": [
+        {
+          "aid": 115213923782338,
+          "bvid": "BV1Bjp2zqEsR",
+          "cid": 32423020298,
+          "p": 1,
+          "title": "逗猫游戏 / 自动逗猫 / 带娃神器"
+        }
+      ]
+    },
+    {
+      "aid": 114008195728293,
+      "bvid": "BV1QfAKeBEf9",
+      "cid": 28408611414,
+      "title": "逗猫游戏 / 鼠一鼠二 / 喵皇的试炼",
+      "cover": "http://i2.hdslb.com/bfs/archive/e0b2b7b4e0f3a78f5b6272043061e911d28b9506.jpg",
+      "redirect_url": "",
+      "list": [
+        {
+          "aid": 114008195728293,
+          "bvid": "BV1QfAKeBEf9",
+          "cid": 28408611414,
+          "p": 1,
+          "title": "逗猫游戏 / 鼠一鼠二 / 喵皇的试炼"
+        }
+      ]
+    },
+    {
+      "aid": 369205166,
+      "bvid": "BV1gZ4y1n74k",
+      "cid": 1416342344,
+      "title": "猫咪动画片",
+      "cover": "http://i1.hdslb.com/bfs/archive/2a0839def98fc1cab8e5e7a7294bd5789693ceb2.jpg",
+      "redirect_url": "",
+      "list": [
+        {
+          "aid": 369205166,
+          "bvid": "BV1gZ4y1n74k",
+          "cid": 1416342344,
+          "p": 1,
+          "title": "猫咪动画片"
+        }
+      ]
+    },
+    {
+      "aid": 1404879682,
+      "bvid": "BV18r42157Dt",
+      "cid": 1557452569,
+      "title": "专为猫咪设计的高帧率游戏视频 全自动逗猫 给猫看的视频  解放铲屎官双手 Cat tv",
+      "cover": "http://i2.hdslb.com/bfs/archive/3f249aaea11728bd758ce42a00df661454b81e9a.jpg",
+      "redirect_url": "",
+      "list": [
+        {
+          "aid": 1404879682,
+          "bvid": "BV18r42157Dt",
+          "cid": 1557452569,
+          "p": 1,
+          "title": "专为猫咪设计的高帧率游戏视频 全自动逗猫 给猫看的视频  解放铲屎官双手 Cat tv"
+        }
+      ]
+    },
+    {
+      "aid": 352188323,
+      "bvid": "BV1LR4y1v7Wz",
+      "cid": 1015276847,
+      "title": "给猫看的视频 有声逗猫视频 鸟鱼青蛙等猫猫喜欢的大自然元素 解放铲屎官双手",
+      "cover": "http://i1.hdslb.com/bfs/archive/65244399001b89c60d9c8d59edfac4659749ff57.jpg",
+      "redirect_url": "",
+      "list": [
+        {
+          "aid": 352188323,
+          "bvid": "BV1LR4y1v7Wz",
+          "cid": 1015276847,
+          "p": 1,
+          "title": "给猫看的视频 有声逗猫视频 鸟鱼青蛙等猫猫喜欢的大自然元素 解放铲屎官双手"
+        }
+      ]
+    },
+    {
+      "aid": 113503184620040,
+      "bvid": "BV1JZUWYwEEi",
+      "cid": 26822839538,
+      "title": "逗猫游戏 / 猫主子的解闷神器  /✅收藏起来",
+      "cover": "http://i0.hdslb.com/bfs/archive/6ad4d8f79eacd7b9bedc52eda4b30596082d3138.jpg",
+      "redirect_url": "",
+      "list": [
+        {
+          "aid": 113503184620040,
+          "bvid": "BV1JZUWYwEEi",
+          "cid": 26822839538,
+          "p": 1,
+          "title": "逗猫游戏 / 猫主子的解闷神器  /✅收藏起来"
+        }
+      ]
+    },
+    {
+      "aid": 280666245,
+      "bvid": "BV14c411R7bK",
+      "cid": 1325577585,
+      "title": "逗猫游戏 / 越玩越起劲 / 捉蝗虫",
+      "cover": "http://i2.hdslb.com/bfs/archive/00cc85f8c5c8587421b188c051738ed96d16a3ac.jpg",
+      "redirect_url": "",
+      "list": [
+        {
+          "aid": 280666245,
+          "bvid": "BV14c411R7bK",
+          "cid": 1325577585,
+          "p": 1,
+          "title": "逗猫游戏 / 越玩越起劲 / 捉蝗虫"
+        }
+      ]
+    },
+    {
+      "aid": 959751404,
+      "bvid": "BV1xp4y1T7xD",
+      "cid": 1303354861,
+      "title": "逗猫游戏 / 猫真的会爱上 / 拍苍蝇",
+      "cover": "http://i0.hdslb.com/bfs/archive/7dfc6ddc4e71c742548527c55b5d3d1d55737040.jpg",
+      "redirect_url": "",
+      "list": [
+        {
+          "aid": 959751404,
+          "bvid": "BV1xp4y1T7xD",
+          "cid": 1303354861,
+          "p": 1,
+          "title": "逗猫游戏 / 猫真的会爱上 / 拍苍蝇"
+        }
+      ]
+    },
+    {
+      "aid": 114324966212986,
+      "bvid": "BV1DmdaYxEfy",
+      "cid": 29375006288,
+      "title": "逗猫游戏 / 猫咪嘎嘎上头 / 逗猫神器",
+      "cover": "http://i0.hdslb.com/bfs/archive/9264aa8351e3655506b451e1308cf7a3b648cd4b.jpg",
+      "redirect_url": "",
+      "list": [
+        {
+          "aid": 114324966212986,
+          "bvid": "BV1DmdaYxEfy",
+          "cid": 29375006288,
+          "p": 1,
+          "title": "逗猫游戏 / 猫咪嘎嘎上头 / 逗猫神器"
+        }
+      ]
+    },
+    {
+      "aid": 244874595,
+      "bvid": "BV1Fv411k7Rm",
+      "cid": 242564807,
+      "title": "给猫看的视频 don't say so much 我们家猫看了一个多小时还在看",
+      "cover": "http://i0.hdslb.com/bfs/archive/119f5558850ca7d13501da11805b3c816ffde1a1.jpg",
+      "redirect_url": "",
+      "list": [
+        {
+          "aid": 244874595,
+          "bvid": "BV1Fv411k7Rm",
+          "cid": 242564807,
+          "p": 1,
+          "title": "给猫看的视频 don't say so much 我们家猫看了一个多小时还在看"
+        }
+      ]
+    },
+    {
+      "aid": 368943435,
+      "bvid": "BV1J94y1K7ds",
+      "cid": 1411943638,
+      "title": "【CAT TV】别耽误你猫上清北了！小猫咪能看懂的视频哦！全自动逗猫神器 逗猫游戏 解放铲屎官双手",
+      "cover": "http://i2.hdslb.com/bfs/archive/7531f81727bca9d29e7ff8a2fca15c7d32e29c18.jpg",
+      "redirect_url": "",
+      "list": [
+        {
+          "aid": 368943435,
+          "bvid": "BV1J94y1K7ds",
+          "cid": 1411943638,
+          "p": 1,
+          "title": "【CAT TV】别耽误你猫上清北了！小猫咪能看懂的视频哦！全自动逗猫神器 逗猫游戏 解放铲屎官双手"
+        }
+      ]
+    }
+  ],
+  "upData": {
+    "mid": "473534719",
+    "name": "猫狗物语Petdiary",
+    "approve": false,
+    "sex": "保密",
+    "rank": "10000",
+    "face": "https://i1.hdslb.com/bfs/face/21159ed6dc5628f93036cb4840634a6bc67548d2.jpg",
+    "face_nft": 0,
+    "face_nft_type": 0,
+    "DisplayRank": "0",
+    "regtime": 0,
+    "spacesta": 0,
+    "birthday": "",
+    "place": "",
+    "description": "",
+    "article": 0,
+    "attentions": [],
+    "fans": 8190,
+    "friend": 94,
+    "attention": 94,
+    "sign": "关注我~养猫变轻松",
+    "level_info": {
+      "current_level": 6,
+      "current_min": 0,
+      "current_exp": 0,
+      "next_exp": 0
+    },
+    "pendant": {
+      "pid": 0,
+      "name": "",
+      "image": "",
+      "expire": 0,
+      "image_enhance": "",
+      "image_enhance_frame": "",
+      "n_pid": 0
+    },
+    "nameplate": {
+      "nid": 0,
+      "name": "",
+      "image": "",
+      "image_small": "",
+      "level": "",
+      "condition": ""
+    },
+    "Official": {
+      "role": 0,
+      "title": "",
+      "desc": "",
+      "type": -1
+    },
+    "official_verify": {
+      "type": -1,
+      "desc": ""
+    },
+    "vip": {
+      "type": 2,
+      "status": 1,
+      "due_date": 1778083200000,
+      "vip_pay_type": 1,
+      "theme_type": 0,
+      "label": {
+        "path": "http://i0.hdslb.com/bfs/vip/label_annual.png",
+        "text": "年度大会员",
+        "label_theme": "annual_vip",
+        "text_color": "#FFFFFF",
+        "bg_style": 1,
+        "bg_color": "#FB7299",
+        "border_color": "",
+        "use_img_label": true,
+        "img_label_uri_hans": "",
+        "img_label_uri_hant": "",
+        "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+        "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png",
+        "label_id": -22,
+        "label_goto": {
+          "mobile": "https://big.bilibili.com/mobile/index?navhide=1&from_spmid=vipicon",
+          "pc_web": "https://account.bilibili.com/big?from_spmid=vipicon"
+        }
+      },
+      "avatar_subscript": 1,
+      "nickname_color": "#FB7299",
+      "role": 3,
+      "avatar_subscript_url": "",
+      "tv_vip_status": 0,
+      "tv_vip_pay_type": 0,
+      "tv_due_date": 0,
+      "avatar_icon": {
+        "icon_type": 1,
+        "icon_resource": {}
+      },
+      "ott_info": {
+        "vip_type": 0,
+        "pay_type": 0,
+        "pay_channel_id": "",
+        "status": 0,
+        "overdue_time": 0
+      },
+      "super_vip": {
+        "is_super_vip": false
+      },
+      "vipType": 2,
+      "vipStatus": 1
+    },
+    "is_senior_member": 0,
+    "name_render": null,
+    "archiveCount": 183
+  },
+  "staffData": [],
+  "elecFullInfo": {
+    "show_info": {
+      "show": true,
+      "state": 3,
+      "title": "充电",
+      "jump_url": "https://member.bilibili.com/mall/upower-pay?mid=473534719&prePage=video&oid=115293095464736",
+      "icon": "https://i0.hdslb.com/bfs/garb/item/33e2e72d9a0c855f036b4cb55448f44af67a0635.png",
+      "high_level": {
+        "privilege_type": 0,
+        "title": "",
+        "sub_title": "",
+        "show_button": false,
+        "button_text": "",
+        "jump_url": {
+          "up_link": "",
+          "paywall_link": "",
+          "previewbar_link": ""
+        },
+        "intro": "",
+        "open": false,
+        "new": false,
+        "question_text": "",
+        "qa_detail_link": ""
+      },
+      "with_qa_id": 0,
+      "jump_url_web": "https://member.bilibili.com/mall/upower-pay?mid=473534719&prePage=video"
+    },
+    "av_count": 0,
+    "count": 0,
+    "total_count": 0,
+    "special_day": 0,
+    "display_num": 0,
+    "cnt_priv_type": 0
+  },
+  "hasShowedOldFan": false,
+  "oldFanContract": {},
+  "sectionsFavState": false,
+  "sectionsInfo": {},
+  "tags": [
+    {
+      "tag_id": 1292723,
+      "tag_name": "萌宠UP主加更计划",
+      "music_id": "",
+      "tag_type": "topic",
+      "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1292723&topic_name=%E8%90%8C%E5%AE%A0UP%E4%B8%BB%E5%8A%A0%E6%9B%B4%E8%AE%A1%E5%88%92",
+      "showDetail": false,
+      "showReport": false,
+      "timeOut": null
+    },
+    {
+      "tag_id": 860401,
+      "tag_name": "铲屎官",
+      "music_id": "",
+      "tag_type": "old_channel",
+      "jump_url": "",
+      "showDetail": false,
+      "showReport": false,
+      "timeOut": null
+    },
+    {
+      "tag_id": 37653,
+      "tag_name": "逗猫",
+      "music_id": "",
+      "tag_type": "old_channel",
+      "jump_url": "",
+      "showDetail": false,
+      "showReport": false,
+      "timeOut": null
+    },
+    {
+      "tag_id": 6140,
+      "tag_name": "猫片",
+      "music_id": "",
+      "tag_type": "old_channel",
+      "jump_url": "",
+      "showDetail": false,
+      "showReport": false,
+      "timeOut": null
+    },
+    {
+      "tag_id": 1562,
+      "tag_name": "喵星人",
+      "music_id": "",
+      "tag_type": "old_channel",
+      "jump_url": "",
+      "showDetail": false,
+      "showReport": false,
+      "timeOut": null
+    },
+    {
+      "tag_id": 6292,
+      "tag_name": "猫咪",
+      "music_id": "",
+      "tag_type": "old_channel",
+      "jump_url": "",
+      "showDetail": false,
+      "showReport": false,
+      "timeOut": null
+    },
+    {
+      "tag_id": 15197,
+      "tag_name": "喵喵",
+      "music_id": "",
+      "tag_type": "old_channel",
+      "jump_url": "",
+      "showDetail": false,
+      "showReport": false,
+      "timeOut": null
+    },
+    {
+      "tag_id": 21131,
+      "tag_name": "小猫",
+      "music_id": "",
+      "tag_type": "old_channel",
+      "jump_url": "",
+      "showDetail": false,
+      "showReport": false,
+      "timeOut": null
+    },
+    {
+      "tag_id": 361446,
+      "tag_name": "踩奶",
+      "music_id": "",
+      "tag_type": "old_channel",
+      "jump_url": "",
+      "showDetail": false,
+      "showReport": false,
+      "timeOut": null
+    },
+    {
+      "tag_id": 983299,
+      "tag_name": "养猫",
+      "music_id": "",
+      "tag_type": "old_channel",
+      "jump_url": "",
+      "showDetail": false,
+      "showReport": false,
+      "timeOut": null
+    }
+  ],
+  "queryTags": [],
+  "related": [
+    {
+      "aid": 709057110,
+      "cid": 1413021023,
+      "bvid": "BV1uQ4y1A7NU",
+      "duration": 893,
+      "pic": "http://i0.hdslb.com/bfs/archive/f3f8b61abe2eb1867c63674d24ef3ff5bdd13c07.jpg",
+      "title": "【CAT TV】专为猫猫制作的高帧率动画片 全自动逗猫神器 养猫必备好物 解放铲屎官双手 给猫看的视频",
+      "ai_rcmd": {},
+      "owner": {
+        "name": "小猫看电视啦",
+        "mid": 533688301
+      },
+      "stat": {
+        "danmaku": 872,
+        "view": 1433153,
+        "vt": 0
+      },
+      "season_id": 0,
+      "season_type": 0,
+      "redirect_url": "",
+      "redirected_url": "",
+      "enable_vt": 0,
+      "reportParams": {}
+    },
+    {
+      "aid": 788997150,
+      "cid": 1281657265,
+      "bvid": "BV1tC4y1f7SD",
+      "duration": 1045,
+      "pic": "http://i2.hdslb.com/bfs/archive/e361b4f4eaaa066ce97c6ac654a0d1fd9ed2c5bb.jpg",
+      "title": "给我家猫咪看的动画",
+      "ai_rcmd": {},
+      "owner": {
+        "name": "69527622659_bili",
+        "mid": 432235230
+      },
+      "stat": {
+        "danmaku": 8344,
+        "view": 5104664,
+        "vt": 0
+      },
+      "season_id": 0,
+      "season_type": 0,
+      "redirect_url": "",
+      "redirected_url": "",
+      "enable_vt": 0,
+      "reportParams": {}
+    },
+    {
+      "aid": 542381125,
+      "cid": 245068689,
+      "bvid": "BV1pi4y1j7Bn",
+      "duration": 957,
+      "pic": "http://i2.hdslb.com/bfs/archive/6c5422ac96f3ad4649c7a39e54505fa31d111a4e.jpg",
+      "title": "逗猫游戏 飞奔的毛线球视频游戏",
+      "ai_rcmd": {},
+      "owner": {
+        "name": "没空去上班",
+        "mid": 18371756
+      },
+      "stat": {
+        "danmaku": 1506,
+        "view": 1491373,
+        "vt": 0
+      },
+      "season_id": 0,
+      "season_type": 0,
+      "redirect_url": "",
+      "redirected_url": "",
+      "enable_vt": 0,
+      "reportParams": {}
+    },
+    {
+      "aid": 1304427689,
+      "cid": 1536504993,
+      "bvid": "BV1JM4m1o7Q4",
+      "duration": 436,
+      "pic": "http://i1.hdslb.com/bfs/archive/0927e33f3347729e46e91b690ef250d0c05a97df.jpg",
+      "title": "逗猫游戏 / 好玩有趣 / 猫咪心情好不生病",
+      "ai_rcmd": {},
+      "owner": {
+        "name": "猫狗物语Petdiary",
+        "mid": 473534719
+      },
+      "stat": {
+        "danmaku": 80,
+        "view": 216621,
+        "vt": 0
+      },
+      "season_id": 0,
+      "season_type": 0,
+      "redirect_url": "",
+      "redirected_url": "",
+      "enable_vt": 0,
+      "reportParams": {}
+    },
+    {
+      "aid": 1953863827,
+      "cid": 1526371173,
+      "bvid": "BV1vC411J7hb",
+      "duration": 772,
+      "pic": "http://i0.hdslb.com/bfs/archive/0e17aa260285316c45892ee5bc4ea1333e634e8c.jpg",
+      "title": "专为猫咪设计的高帧率大电影 解放铲屎官双手 实现全自动逗猫只需要一个视频",
+      "ai_rcmd": {},
+      "owner": {
+        "name": "小猫看电视啦",
+        "mid": 533688301
+      },
+      "stat": {
+        "danmaku": 133,
+        "view": 126884,
+        "vt": 0
+      },
+      "season_id": 0,
+      "season_type": 0,
+      "redirect_url": "",
+      "redirected_url": "",
+      "enable_vt": 0,
+      "reportParams": {}
+    },
+    {
+      "aid": 319360387,
+      "cid": 1288731513,
+      "bvid": "BV1Lw411y7Jp",
+      "duration": 1055,
+      "pic": "http://i0.hdslb.com/bfs/archive/863adb94d7583cb976a9bae462e3deb888bfc479.jpg",
+      "title": "猫爱看的视频 / 树林 /小池塘 /大自然环境声音",
+      "ai_rcmd": {},
+      "owner": {
+        "name": "猫狗物语Petdiary",
+        "mid": 473534719
+      },
+      "stat": {
+        "danmaku": 92,
+        "view": 157424,
+        "vt": 0
+      },
+      "season_id": 0,
+      "season_type": 0,
+      "redirect_url": "",
+      "redirected_url": "",
+      "enable_vt": 0,
+      "reportParams": {}
+    },
+    {
+      "aid": 669291633,
+      "cid": 228671574,
+      "bvid": "BV1ta4y177AZ",
+      "duration": 961,
+      "pic": "http://i0.hdslb.com/bfs/archive/f7834ebf6c834d626b3d2dfdc4d346c045d730ca.jpg",
+      "title": "猫猫看的视频，亲身实验，猫很喜欢！",
+      "ai_rcmd": {},
+      "owner": {
+        "name": "我真的都想笑了",
+        "mid": 26413936
+      },
+      "stat": {
+        "danmaku": 2356,
+        "view": 2015134,
+        "vt": 0
+      },
+      "season_id": 0,
+      "season_type": 0,
+      "redirect_url": "",
+      "redirected_url": "",
+      "enable_vt": 0,
+      "reportParams": {}
+    },
+    {
+      "aid": 115253685781963,
+      "cid": 32580961225,
+      "bvid": "BV1s7J1zTErZ",
+      "duration": 622,
+      "pic": "http://i2.hdslb.com/bfs/archive/05a1261fd1f0e571bf8def56cfb63c3238bbe2f2.jpg",
+      "title": "逗猫游戏 / 猫咪开心到飞起 / 零成本养猫",
+      "ai_rcmd": {},
+      "owner": {
+        "name": "猫狗物语Petdiary",
+        "mid": 473534719
+      },
+      "stat": {
+        "danmaku": 1,
+        "view": 4389,
+        "vt": 0
+      },
+      "season_id": 0,
+      "season_type": 0,
+      "redirect_url": "",
+      "redirected_url": "",
+      "enable_vt": 0,
+      "reportParams": {}
+    },
+    {
+      "aid": 1754011433,
+      "cid": 1529233575,
+      "bvid": "BV1d4421f7Nj",
+      "duration": 842,
+      "pic": "http://i0.hdslb.com/bfs/archive/28cb9bb72b883588e0b6bd5d7f09bf81fb26126c.jpg",
+      "title": "给猫看的视频 超有趣的有声鬼畜绳子动画  全自动逗猫 解放铲屎官双手的养猫好物",
+      "ai_rcmd": {},
+      "owner": {
+        "name": "小猫看电视啦",
+        "mid": 533688301
+      },
+      "stat": {
+        "danmaku": 142,
+        "view": 183697,
+        "vt": 0
+      },
+      "season_id": 0,
+      "season_type": 0,
+      "redirect_url": "",
+      "redirected_url": "",
+      "enable_vt": 0,
+      "reportParams": {}
+    },
+    {
+      "aid": 325814493,
+      "cid": 1395771990,
+      "bvid": "BV1Qw41137Fz",
+      "duration": 718,
+      "pic": "http://i2.hdslb.com/bfs/archive/6d390edfb92d2f9b9b5e85d606f31c3b39a0c8c7.jpg",
+      "title": "【CAT TV】给猫看的视频 全自动逗猫游戏 解放铲屎官双手 养猫必备好物",
+      "ai_rcmd": {},
+      "owner": {
+        "name": "小猫看电视啦",
+        "mid": 533688301
+      },
+      "stat": {
+        "danmaku": 200,
+        "view": 215198,
+        "vt": 0
+      },
+      "season_id": 0,
+      "season_type": 0,
+      "redirect_url": "",
+      "redirected_url": "",
+      "enable_vt": 0,
+      "reportParams": {}
+    },
+    {
+      "aid": 617392365,
+      "cid": 1240508855,
+      "bvid": "BV1Y84y1o7Gd",
+      "duration": 1009,
+      "pic": "http://i0.hdslb.com/bfs/archive/980a09a217e6327e0fa8f729620441536e71a1d9.jpg",
+      "title": "n多猫咪亲测有效！猫玩疯啦！给猫看的视频 有声逗猫游戏 0成本养猫好物 猫咪解闷玩具 解放铲屎官双手【CAT TV】",
+      "ai_rcmd": {},
+      "owner": {
+        "name": "小猫看电视啦",
+        "mid": 533688301
+      },
+      "stat": {
+        "danmaku": 1654,
+        "view": 2542388,
+        "vt": 0
+      },
+      "season_id": 0,
+      "season_type": 0,
+      "redirect_url": "",
+      "redirected_url": "",
+      "enable_vt": 0,
+      "reportParams": {}
+    },
+    {
+      "aid": 1000503265,
+      "cid": 1442053572,
+      "bvid": "BV1Ux4y117zQ",
+      "duration": 891,
+      "pic": "http://i0.hdslb.com/bfs/archive/fbabd237c4656b994a055bff1231409e66ed56bc.jpg",
+      "title": "【养猫必备】亲测猫咪超看爱！给猫看的视频（台球桌篇）逗猫解放双手 0成本逗猫好物 2023-(1080p)",
+      "ai_rcmd": {},
+      "owner": {
+        "name": "GyoKuTei",
+        "mid": 12976588
+      },
+      "stat": {
+        "danmaku": 42,
+        "view": 109258,
+        "vt": 0
+      },
+      "season_id": 0,
+      "season_type": 0,
+      "redirect_url": "",
+      "redirected_url": "",
+      "enable_vt": 0,
+      "reportParams": {}
+    },
+    {
+      "aid": 113073620779437,
+      "cid": 25722095025,
+      "bvid": "BV1c4H4edEtq",
+      "duration": 1016,
+      "pic": "http://i2.hdslb.com/bfs/archive/c38e158365dbce40c8ceccd9803629f3a8f2fca3.jpg",
+      "title": "猫爱看的视频 / 喵星人也追剧",
+      "ai_rcmd": {},
+      "owner": {
+        "name": "猫狗物语Petdiary",
+        "mid": 473534719
+      },
+      "stat": {
+        "danmaku": 20,
+        "view": 97733,
+        "vt": 0
+      },
+      "season_id": 0,
+      "season_type": 0,
+      "redirect_url": "",
+      "redirected_url": "",
+      "enable_vt": 0,
+      "reportParams": {}
+    },
+    {
+      "aid": 280644119,
+      "cid": 1326682171,
+      "bvid": "BV1uc411R7FS",
+      "duration": 1045,
+      "pic": "http://i1.hdslb.com/bfs/archive/55026b89ba4900c4c7d8ebf31bd2c597685c5453.jpg",
+      "title": "给猫猫看的动画片（三）（猫超爱）",
+      "ai_rcmd": {},
+      "owner": {
+        "name": "______惠子",
+        "mid": 8727915
+      },
+      "stat": {
+        "danmaku": 993,
+        "view": 924533,
+        "vt": 0
+      },
+      "season_id": 0,
+      "season_type": 0,
+      "redirect_url": "",
+      "redirected_url": "",
+      "enable_vt": 0,
+      "reportParams": {}
+    },
+    {
+      "aid": 114245576427068,
+      "cid": 29132655045,
+      "bvid": "BV1KwZPY3EXk",
+      "duration": 601,
+      "pic": "http://i2.hdslb.com/bfs/archive/c8f846f94a6bdefef7b81a011818835e1aae5e02.jpg",
+      "title": "逗猫玩 老鼠强攻",
+      "ai_rcmd": {},
+      "owner": {
+        "name": "猫猫教喵喵叫",
+        "mid": 2088036346
+      },
+      "stat": {
+        "danmaku": 135,
+        "view": 373138,
+        "vt": 0
+      },
+      "season_id": 0,
+      "season_type": 0,
+      "redirect_url": "",
+      "redirected_url": "",
+      "enable_vt": 0,
+      "reportParams": {}
+    },
+    {
+      "aid": 881247488,
+      "cid": 1404033671,
+      "bvid": "BV1bK4y1z7t8",
+      "duration": 823,
+      "pic": "http://i1.hdslb.com/bfs/archive/4a7155679484cdb2a1e5895e746d9103e844547f.jpg",
+      "title": "【CAT TV 】解放铲屎官双手 全自动逗猫游戏 逗猫视频 给猫看的视频 猫咪互动游戏",
+      "ai_rcmd": {},
+      "owner": {
+        "name": "小猫看电视啦",
+        "mid": 533688301
+      },
+      "stat": {
+        "danmaku": 131,
+        "view": 113311,
+        "vt": 0
+      },
+      "season_id": 0,
+      "season_type": 0,
+      "redirect_url": "",
+      "redirected_url": "",
+      "enable_vt": 0,
+      "reportParams": {}
+    },
+    {
+      "aid": 1050298602,
+      "cid": 1433297750,
+      "bvid": "BV1GH4y1Y79u",
+      "duration": 154,
+      "pic": "http://i0.hdslb.com/bfs/archive/72b29298cefe8fa4b0bf6e7dea9fe72921d10fd5.jpg",
+      "title": "猫咪爱看的动画片！自动逗猫～乱跑的老鼠逗猫棒！猫猫爱看！逗猫棒纯享版",
+      "ai_rcmd": {},
+      "owner": {
+        "name": "明天吃火锅么",
+        "mid": 496409057
+      },
+      "stat": {
+        "danmaku": 228,
+        "view": 405388,
+        "vt": 0
+      },
+      "season_id": 0,
+      "season_type": 0,
+      "redirect_url": "",
+      "redirected_url": "",
+      "enable_vt": 0,
+      "reportParams": {}
+    },
+    {
+      "aid": 113776049262095,
+      "cid": 27717930158,
+      "bvid": "BV1rKrMYKEAd",
+      "duration": 532,
+      "pic": "http://i0.hdslb.com/bfs/archive/d19d9ec1bb6e5cf5f286df1a7559aac133c6180b.jpg",
+      "title": "逗猫游戏 / 没有一只小猫能拒绝玩这个😺",
+      "ai_rcmd": {},
+      "owner": {
+        "name": "猫狗物语Petdiary",
+        "mid": 473534719
+      },
+      "stat": {
+        "danmaku": 31,
+        "view": 112368,
+        "vt": 0
+      },
+      "season_id": 0,
+      "season_type": 0,
+      "redirect_url": "",
+      "redirected_url": "",
+      "enable_vt": 0,
+      "reportParams": {}
+    },
+    {
+      "aid": 742003012,
+      "cid": 1156961431,
+      "bvid": "BV1sk4y1p7vy",
+      "duration": 231,
+      "pic": "http://i1.hdslb.com/bfs/archive/7475fd42ad2f716673ce638dc1b6df14b97fc8ff.jpg",
+      "title": "逗猫游戏 /猫的欢乐时光 /翻滚的乒乓球",
+      "ai_rcmd": {},
+      "owner": {
+        "name": "猫狗物语Petdiary",
+        "mid": 473534719
+      },
+      "stat": {
+        "danmaku": 20,
+        "view": 95936,
+        "vt": 0
+      },
+      "season_id": 0,
+      "season_type": 0,
+      "redirect_url": "",
+      "redirected_url": "",
+      "enable_vt": 0,
+      "reportParams": {}
+    },
+    {
+      "aid": 1850575499,
+      "cid": 1439434051,
+      "bvid": "BV1dp421R7B5",
+      "duration": 1210,
+      "pic": "http://i0.hdslb.com/bfs/archive/35324e045f7b14d07b6ceb44b38f297dcc131c5e.jpg",
+      "title": "猫爱看的视频 / 喵宅家无聊 /快给他看视频",
+      "ai_rcmd": {},
+      "owner": {
+        "name": "猫狗物语Petdiary",
+        "mid": 473534719
+      },
+      "stat": {
+        "danmaku": 5,
+        "view": 50072,
+        "vt": 0
+      },
+      "season_id": 0,
+      "season_type": 0,
+      "redirect_url": "",
+      "redirected_url": "",
+      "enable_vt": 0,
+      "reportParams": {}
+    },
+    {
+      "aid": 1456487971,
+      "cid": 1625629169,
+      "bvid": "BV1mi4216734",
+      "duration": 797,
+      "pic": "http://i2.hdslb.com/bfs/archive/eb2e83fd00e49137a6cd5cea26ea73dbec06a7c1.jpg",
+      "title": "据说聪明的小猫看了会有反应哦！全自动逗猫神器  解放铲屎官双手的养猫好物 给猫看的视频 cat tv",
+      "ai_rcmd": {},
+      "owner": {
+        "name": "小猫看电视啦",
+        "mid": 533688301
+      },
+      "stat": {
+        "danmaku": 117,
+        "view": 116839,
+        "vt": 0
+      },
+      "season_id": 0,
+      "season_type": 0,
+      "redirect_url": "",
+      "redirected_url": "",
+      "enable_vt": 0,
+      "reportParams": {}
+    },
+    {
+      "aid": 1206350599,
+      "cid": 1624624228,
+      "bvid": "BV1Pf421B7ds",
+      "duration": 1288,
+      "pic": "http://i1.hdslb.com/bfs/archive/b59622de691a417494c4813333c7a7a60d2dd8d3.jpg",
+      "title": "全自动逗猫游戏！养猫必备好物！猫咪爱看的视频 【cat tv】",
+      "ai_rcmd": {},
+      "owner": {
+        "name": "小猫看电视啦",
+        "mid": 533688301
+      },
+      "stat": {
+        "danmaku": 116,
+        "view": 114966,
+        "vt": 0
+      },
+      "season_id": 0,
+      "season_type": 0,
+      "redirect_url": "",
+      "redirected_url": "",
+      "enable_vt": 0,
+      "reportParams": {}
+    },
+    {
+      "aid": 113118130799218,
+      "cid": 25823543464,
+      "bvid": "BV1QQ4zeREK8",
+      "duration": 624,
+      "pic": "http://i1.hdslb.com/bfs/archive/c22f66ce3ce734068cd758e64df495e8f3095599.jpg",
+      "title": "逗猫游戏 / 亲测猫咪很爱玩 / 快来试试",
+      "ai_rcmd": {},
+      "owner": {
+        "name": "猫狗物语Petdiary",
+        "mid": 473534719
+      },
+      "stat": {
+        "danmaku": 8,
+        "view": 43921,
+        "vt": 0
+      },
+      "season_id": 0,
+      "season_type": 0,
+      "redirect_url": "",
+      "redirected_url": "",
+      "enable_vt": 0,
+      "reportParams": {}
+    },
+    {
+      "aid": 5426078,
+      "cid": 8819541,
+      "bvid": "BV1Ps41117NX",
+      "duration": 15669,
+      "pic": "http://i2.hdslb.com/bfs/archive/3d702d222c2e8339bfecce5559dc9a0514915af7.png",
+      "title": "铲屎官必备！逗猫视频107P大合集 陆续添加中",
+      "ai_rcmd": {},
+      "owner": {
+        "name": "原来是花卷啊",
+        "mid": 1876374
+      },
+      "stat": {
+        "danmaku": 1243,
+        "view": 730415,
+        "vt": 0
+      },
+      "season_id": 0,
+      "season_type": 0,
+      "redirect_url": "",
+      "redirected_url": "",
+      "enable_vt": 0,
+      "reportParams": {}
+    },
+    {
+      "aid": 1052787951,
+      "cid": 1500291087,
+      "bvid": "BV1HH4y1T7YZ",
+      "duration": 620,
+      "pic": "http://i1.hdslb.com/bfs/archive/339c0201f4892f4842dd662a83772be316d1a2f3.jpg",
+      "title": "逗猫游戏 / 捉麻雀 / 好玩耶/ 快给猫咪安排上",
+      "ai_rcmd": {},
+      "owner": {
+        "name": "猫狗物语Petdiary",
+        "mid": 473534719
+      },
+      "stat": {
+        "danmaku": 60,
+        "view": 132769,
+        "vt": 0
+      },
+      "season_id": 0,
+      "season_type": 0,
+      "redirect_url": "",
+      "redirected_url": "",
+      "enable_vt": 0,
+      "reportParams": {}
+    },
+    {
+      "aid": 536016871,
+      "cid": 1335036022,
+      "bvid": "BV1hu411F7gS",
+      "duration": 676,
+      "pic": "http://i0.hdslb.com/bfs/archive/a712ff2dc46d1861b980b5b526dc3f0ebad10ee4.jpg",
+      "title": "全自动逗猫游戏视频 解放铲屎官双手 给猫看的视频 亲测猫咪超爱哦 猫咪解闷神器",
+      "ai_rcmd": {},
+      "owner": {
+        "name": "小猫看电视啦",
+        "mid": 533688301
+      },
+      "stat": {
+        "danmaku": 119,
+        "view": 74502,
+        "vt": 0
+      },
+      "season_id": 0,
+      "season_type": 0,
+      "redirect_url": "",
+      "redirected_url": "",
+      "enable_vt": 0,
+      "reportParams": {}
+    },
+    {
+      "aid": 113111705063181,
+      "cid": 25637886136,
+      "bvid": "BV1WtpxeFEgK",
+      "duration": 530,
+      "pic": "http://i0.hdslb.com/bfs/archive/8f9fdd2310c0251eb0f5eae011767a8df533e73d.jpg",
+      "title": "【养猫必备】亲测猫咪超爱看最新篇！给猫看的视频（2024年9月）",
+      "ai_rcmd": {},
+      "owner": {
+        "name": "GyoKuTei",
+        "mid": 12976588
+      },
+      "stat": {
+        "danmaku": 105,
+        "view": 308912,
+        "vt": 0
+      },
+      "season_id": 0,
+      "season_type": 0,
+      "redirect_url": "",
+      "redirected_url": "",
+      "enable_vt": 0,
+      "reportParams": {}
+    },
+    {
+      "aid": 1452293422,
+      "cid": 1483807193,
+      "bvid": "BV1jq421A7de",
+      "duration": 631,
+      "pic": "http://i1.hdslb.com/bfs/archive/6a30e027e943da415f0ff670ff294b0c17ec89ac.jpg",
+      "title": "逗猫游戏 / 毛孩子超喜欢 / 养猫必备",
+      "ai_rcmd": {},
+      "owner": {
+        "name": "猫狗物语Petdiary",
+        "mid": 473534719
+      },
+      "stat": {
+        "danmaku": 27,
+        "view": 49126,
+        "vt": 0
+      },
+      "season_id": 0,
+      "season_type": 0,
+      "redirect_url": "",
+      "redirected_url": "",
+      "enable_vt": 0,
+      "reportParams": {}
+    },
+    {
+      "aid": 113033590473726,
+      "cid": 25603542734,
+      "bvid": "BV1c3sxefEcL",
+      "duration": 437,
+      "pic": "http://i0.hdslb.com/bfs/archive/7bcbe4ae3211dd79ca273efb648d8bd547b903f0.jpg",
+      "title": "逗猫游戏 / 发光小球加强版 / 听说猫猫都是玩球高手",
+      "ai_rcmd": {},
+      "owner": {
+        "name": "猫狗物语Petdiary",
+        "mid": 473534719
+      },
+      "stat": {
+        "danmaku": 39,
+        "view": 178173,
+        "vt": 0
+      },
+      "season_id": 0,
+      "season_type": 0,
+      "redirect_url": "",
+      "redirected_url": "",
+      "enable_vt": 0,
+      "reportParams": {}
+    },
+    {
+      "aid": 115213923782338,
+      "cid": 32423020298,
+      "bvid": "BV1Bjp2zqEsR",
+      "duration": 596,
+      "pic": "http://i0.hdslb.com/bfs/archive/8ceff881038536e171daafb8f1075e63a173afe9.jpg",
+      "title": "逗猫游戏 / 自动逗猫 / 带娃神器",
+      "ai_rcmd": {},
+      "owner": {
+        "name": "猫狗物语Petdiary",
+        "mid": 473534719
+      },
+      "stat": {
+        "danmaku": 0,
+        "view": 3407,
+        "vt": 0
+      },
+      "season_id": 0,
+      "season_type": 0,
+      "redirect_url": "",
+      "redirected_url": "",
+      "enable_vt": 0,
+      "reportParams": {}
+    },
+    {
+      "aid": 114008195728293,
+      "cid": 28408611414,
+      "bvid": "BV1QfAKeBEf9",
+      "duration": 729,
+      "pic": "http://i2.hdslb.com/bfs/archive/e0b2b7b4e0f3a78f5b6272043061e911d28b9506.jpg",
+      "title": "逗猫游戏 / 鼠一鼠二 / 喵皇的试炼",
+      "ai_rcmd": {},
+      "owner": {
+        "name": "猫狗物语Petdiary",
+        "mid": 473534719
+      },
+      "stat": {
+        "danmaku": 2,
+        "view": 29320,
+        "vt": 0
+      },
+      "season_id": 0,
+      "season_type": 0,
+      "redirect_url": "",
+      "redirected_url": "",
+      "enable_vt": 0,
+      "reportParams": {}
+    },
+    {
+      "aid": 369205166,
+      "cid": 1416342344,
+      "bvid": "BV1gZ4y1n74k",
+      "duration": 355,
+      "pic": "http://i1.hdslb.com/bfs/archive/2a0839def98fc1cab8e5e7a7294bd5789693ceb2.jpg",
+      "title": "猫咪动画片",
+      "ai_rcmd": {},
+      "owner": {
+        "name": "明天吃火锅么",
+        "mid": 496409057
+      },
+      "stat": {
+        "danmaku": 151,
+        "view": 158144,
+        "vt": 0
+      },
+      "season_id": 0,
+      "season_type": 0,
+      "redirect_url": "",
+      "redirected_url": "",
+      "enable_vt": 0,
+      "reportParams": {}
+    },
+    {
+      "aid": 1404879682,
+      "cid": 1557452569,
+      "bvid": "BV18r42157Dt",
+      "duration": 1338,
+      "pic": "http://i2.hdslb.com/bfs/archive/3f249aaea11728bd758ce42a00df661454b81e9a.jpg",
+      "title": "专为猫咪设计的高帧率游戏视频 全自动逗猫 给猫看的视频  解放铲屎官双手 Cat tv",
+      "ai_rcmd": {},
+      "owner": {
+        "name": "小猫看电视啦",
+        "mid": 533688301
+      },
+      "stat": {
+        "danmaku": 116,
+        "view": 106311,
+        "vt": 0
+      },
+      "season_id": 0,
+      "season_type": 0,
+      "redirect_url": "",
+      "redirected_url": "",
+      "enable_vt": 0,
+      "reportParams": {}
+    },
+    {
+      "aid": 352188323,
+      "cid": 1015276847,
+      "bvid": "BV1LR4y1v7Wz",
+      "duration": 1801,
+      "pic": "http://i1.hdslb.com/bfs/archive/65244399001b89c60d9c8d59edfac4659749ff57.jpg",
+      "title": "给猫看的视频 有声逗猫视频 鸟鱼青蛙等猫猫喜欢的大自然元素 解放铲屎官双手",
+      "ai_rcmd": {},
+      "owner": {
+        "name": "小猫看电视啦",
+        "mid": 533688301
+      },
+      "stat": {
+        "danmaku": 182,
+        "view": 309576,
+        "vt": 0
+      },
+      "season_id": 0,
+      "season_type": 0,
+      "redirect_url": "",
+      "redirected_url": "",
+      "enable_vt": 0,
+      "reportParams": {}
+    },
+    {
+      "aid": 113503184620040,
+      "cid": 26822839538,
+      "bvid": "BV1JZUWYwEEi",
+      "duration": 728,
+      "pic": "http://i0.hdslb.com/bfs/archive/6ad4d8f79eacd7b9bedc52eda4b30596082d3138.jpg",
+      "title": "逗猫游戏 / 猫主子的解闷神器  /✅收藏起来",
+      "ai_rcmd": {},
+      "owner": {
+        "name": "猫狗物语Petdiary",
+        "mid": 473534719
+      },
+      "stat": {
+        "danmaku": 6,
+        "view": 82631,
+        "vt": 0
+      },
+      "season_id": 0,
+      "season_type": 0,
+      "redirect_url": "",
+      "redirected_url": "",
+      "enable_vt": 0,
+      "reportParams": {}
+    },
+    {
+      "aid": 280666245,
+      "cid": 1325577585,
+      "bvid": "BV14c411R7bK",
+      "duration": 972,
+      "pic": "http://i2.hdslb.com/bfs/archive/00cc85f8c5c8587421b188c051738ed96d16a3ac.jpg",
+      "title": "逗猫游戏 / 越玩越起劲 / 捉蝗虫",
+      "ai_rcmd": {},
+      "owner": {
+        "name": "猫狗物语Petdiary",
+        "mid": 473534719
+      },
+      "stat": {
+        "danmaku": 28,
+        "view": 83168,
+        "vt": 0
+      },
+      "season_id": 0,
+      "season_type": 0,
+      "redirect_url": "",
+      "redirected_url": "",
+      "enable_vt": 0,
+      "reportParams": {}
+    },
+    {
+      "aid": 959751404,
+      "cid": 1303354861,
+      "bvid": "BV1xp4y1T7xD",
+      "duration": 1230,
+      "pic": "http://i0.hdslb.com/bfs/archive/7dfc6ddc4e71c742548527c55b5d3d1d55737040.jpg",
+      "title": "逗猫游戏 / 猫真的会爱上 / 拍苍蝇",
+      "ai_rcmd": {},
+      "owner": {
+        "name": "猫狗物语Petdiary",
+        "mid": 473534719
+      },
+      "stat": {
+        "danmaku": 12,
+        "view": 50750,
+        "vt": 0
+      },
+      "season_id": 0,
+      "season_type": 0,
+      "redirect_url": "",
+      "redirected_url": "",
+      "enable_vt": 0,
+      "reportParams": {}
+    },
+    {
+      "aid": 114324966212986,
+      "cid": 29375006288,
+      "bvid": "BV1DmdaYxEfy",
+      "duration": 517,
+      "pic": "http://i0.hdslb.com/bfs/archive/9264aa8351e3655506b451e1308cf7a3b648cd4b.jpg",
+      "title": "逗猫游戏 / 猫咪嘎嘎上头 / 逗猫神器",
+      "ai_rcmd": {},
+      "owner": {
+        "name": "猫狗物语Petdiary",
+        "mid": 473534719
+      },
+      "stat": {
+        "danmaku": 0,
+        "view": 3042,
+        "vt": 0
+      },
+      "season_id": 0,
+      "season_type": 0,
+      "redirect_url": "",
+      "redirected_url": "",
+      "enable_vt": 0,
+      "reportParams": {}
+    },
+    {
+      "aid": 244874595,
+      "cid": 242564807,
+      "bvid": "BV1Fv411k7Rm",
+      "duration": 1476,
+      "pic": "http://i0.hdslb.com/bfs/archive/119f5558850ca7d13501da11805b3c816ffde1a1.jpg",
+      "title": "给猫看的视频 don't say so much 我们家猫看了一个多小时还在看",
+      "ai_rcmd": {},
+      "owner": {
+        "name": "没空去上班",
+        "mid": 18371756
+      },
+      "stat": {
+        "danmaku": 32,
+        "view": 125700,
+        "vt": 0
+      },
+      "season_id": 0,
+      "season_type": 0,
+      "redirect_url": "",
+      "redirected_url": "",
+      "enable_vt": 0,
+      "reportParams": {}
+    },
+    {
+      "aid": 368943435,
+      "cid": 1411943638,
+      "bvid": "BV1J94y1K7ds",
+      "duration": 771,
+      "pic": "http://i2.hdslb.com/bfs/archive/7531f81727bca9d29e7ff8a2fca15c7d32e29c18.jpg",
+      "title": "【CAT TV】别耽误你猫上清北了！小猫咪能看懂的视频哦！全自动逗猫神器 逗猫游戏 解放铲屎官双手",
+      "ai_rcmd": {},
+      "owner": {
+        "name": "小猫看电视啦",
+        "mid": 533688301
+      },
+      "stat": {
+        "danmaku": 130,
+        "view": 109116,
+        "vt": 0
+      },
+      "season_id": 0,
+      "season_type": 0,
+      "redirect_url": "",
+      "redirected_url": "",
+      "enable_vt": 0,
+      "reportParams": {}
+    }
+  ],
+  "moduleHiddenCtrl": {
+    "adRightTop": false,
+    "rcmdList": false,
+    "rcmdActivity": false,
+    "adLeftBanner": false,
+    "adRightBottom": false,
+    "rcmdLive": false
+  },
+  "spec": null,
+  "loadingRcmdTabData": false,
+  "rcmdTabData": {
+    "tab_name": "全部",
+    "archives": [],
+    "has_more": false
+  },
+  "rcmdTabNames": [
+    "铲屎官",
+    "逗猫",
+    "猫片",
+    "喵星人",
+    "猫咪",
+    "喵喵",
+    "小猫",
+    "踩奶",
+    "养猫"
+  ],
+  "currentRcmdTab": {
+    "tab_name": "全部",
+    "tab_order": 0,
+    "tab_type": 1
+  },
+  "adData": {
+    "2624": [
+      {
+        "id": 0,
+        "contract_id": "",
+        "res_id": 0,
+        "asg_id": 0,
+        "pos_num": 1,
+        "name": "",
+        "pic": "https://static.hdslb.com/images/transparent.gif",
+        "image_urls": null,
+        "litpic": "",
+        "url": "",
+        "style": 0,
+        "agency": "",
+        "label": "",
+        "intro": "",
+        "creative_type": 0,
+        "request_id": "1762510404865q172a26a121a164q5960",
+        "src_id": 2626,
+        "area": 5,
+        "is_ad_loc": true,
+        "ad_cb": "",
+        "title": "",
+        "server_type": 0,
+        "cm_mark": 0,
+        "stime": 0,
+        "mid": "",
+        "activity_type": 0,
+        "epid": 0,
+        "season": null,
+        "room": null,
+        "sub_title": "",
+        "ad_desc": "",
+        "adver_name": "",
+        "null_frame": true,
+        "pic_main_color": "",
+        "card_type": 0,
+        "business_mark": null,
+        "inline": {
+          "inline_use_same": 0,
+          "inline_type": 0,
+          "inline_url": "",
+          "inline_barrage_switch": 0
+        },
+        "operater": "",
+        "jump_target": 0,
+        "show_urls": null,
+        "click_urls": null,
+        "track_id": "",
+        "feedback_panel": null,
+        "sales_type": 0,
+        "wx_program_info": null
+      },
+      {
+        "id": 0,
+        "contract_id": "",
+        "res_id": 0,
+        "asg_id": 0,
+        "pos_num": 2,
+        "name": "",
+        "pic": "https://static.hdslb.com/images/transparent.gif",
+        "image_urls": null,
+        "litpic": "",
+        "url": "",
+        "style": 0,
+        "agency": "",
+        "label": "",
+        "intro": "",
+        "creative_type": 0,
+        "request_id": "1762510404865q172a26a121a164q5960",
+        "src_id": 2627,
+        "area": 5,
+        "is_ad_loc": true,
+        "ad_cb": "",
+        "title": "",
+        "server_type": 0,
+        "cm_mark": 0,
+        "stime": 0,
+        "mid": "",
+        "activity_type": 0,
+        "epid": 0,
+        "season": null,
+        "room": null,
+        "sub_title": "",
+        "ad_desc": "",
+        "adver_name": "",
+        "null_frame": true,
+        "pic_main_color": "",
+        "card_type": 0,
+        "business_mark": null,
+        "inline": {
+          "inline_use_same": 0,
+          "inline_type": 0,
+          "inline_url": "",
+          "inline_barrage_switch": 0
+        },
+        "operater": "",
+        "jump_target": 0,
+        "show_urls": null,
+        "click_urls": null,
+        "track_id": "",
+        "feedback_panel": null,
+        "sales_type": 0,
+        "wx_program_info": null
+      },
+      {
+        "id": 0,
+        "contract_id": "",
+        "res_id": 0,
+        "asg_id": 0,
+        "pos_num": 3,
+        "name": "",
+        "pic": "https://static.hdslb.com/images/transparent.gif",
+        "image_urls": null,
+        "litpic": "",
+        "url": "",
+        "style": 0,
+        "agency": "",
+        "label": "",
+        "intro": "",
+        "creative_type": 0,
+        "request_id": "1762510404865q172a26a121a164q5960",
+        "src_id": 2628,
+        "area": 5,
+        "is_ad_loc": true,
+        "ad_cb": "",
+        "title": "",
+        "server_type": 0,
+        "cm_mark": 0,
+        "stime": 0,
+        "mid": "",
+        "activity_type": 0,
+        "epid": 0,
+        "season": null,
+        "room": null,
+        "sub_title": "",
+        "ad_desc": "",
+        "adver_name": "",
+        "null_frame": true,
+        "pic_main_color": "",
+        "card_type": 0,
+        "business_mark": null,
+        "inline": {
+          "inline_use_same": 0,
+          "inline_type": 0,
+          "inline_url": "",
+          "inline_barrage_switch": 0
+        },
+        "operater": "",
+        "jump_target": 0,
+        "show_urls": null,
+        "click_urls": null,
+        "track_id": "",
+        "feedback_panel": null,
+        "sales_type": 0,
+        "wx_program_info": null
+      }
+    ],
+    "2625": [
+      {
+        "id": 0,
+        "contract_id": "",
+        "res_id": 0,
+        "asg_id": 0,
+        "pos_num": 1,
+        "name": "",
+        "pic": "https://i0.hdslb.com/bfs/sycp/sanlian/image/8ed8543dddeb4040b9fd722326ec0fac.jpeg",
+        "image_urls": null,
+        "litpic": "",
+        "url": "https://b.quark.cn/apps/qkhomepage_twofoufeb/routes/model?entry=gp_wsdbzgppckk4_normal_10&ch=gp_wsdbzgppckk4_normal_10&image=search&dp=&planid=19634358&unitid=133354044&a_creative=615911447&track_id=pbaes.hP2fVxBDUcASH_BVkSxnWVx23hfDdHWqtIJq9zV4-CB6uSZwJnjmblFybymAXDRrcWfP1nsnG3FoKLLAGRx4ly3kEGXD5DZO19BYQrvNTMV5BFQ_6QXHo_eXcGGJswp1&from=bilibili&from_bcg=bcg_12_615911447",
+        "style": 0,
+        "is_ad": true,
+        "agency": "",
+        "label": "",
+        "intro": "",
+        "creative_type": 2,
+        "request_id": "1762510404865q172a26a121a164q5960",
+        "creative_id": 615911447,
+        "src_id": 2629,
+        "show_url": "https://pc-unet.quark.cn/ad/track/v1/lx/show/bilibili?ch=pcquark@gp_wsdbzgppckk4_normal_10&appkey=695e269ce37c495ab5a5d16e1f4fee32&ip=45.114.65.131&ua=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_7%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Safari%2F537.36&accountId=2869175&campaignId=19634358&adgroupId=133354044&creativeId=615911447&trackId=pbaes.hP2fVxBDUcASH_BVkSxnWVx23hfDdHWqtIJq9zV4-CB6uSZwJnjmblFybymAXDRrcWfP1nsnG3FoKLLAGRx4ly3kEGXD5DZO19BYQrvNTMV5BFQ_6QXHo_eXcGGJswp1&callbackUrl=https%3a%2f%2fcm.bilibili.com%2fconv%2fapi%2fconversion%2fad%2fcb%2fv1%3ftrack_id%3dpbaes.hP2fVxBDUcASH_BVkSxnWVx23hfDdHWqtIJq9zV4-CB6uSZwJnjmblFybymAXDRrcWfP1nsnG3FoKLLAGRx4ly3kEGXD5DZO19BYQrvNTMV5BFQ_6QXHo_eXcGGJswp1&sourceId=2629",
+        "click_url": "https://pc-unet.quark.cn/ad/track/v1/lx/click/bilibili?ch=pcquark@gp_wsdbzgppckk4_normal_10&appkey=695e269ce37c495ab5a5d16e1f4fee32&ip=45.114.65.131&ua=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_7%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Safari%2F537.36&accountId=2869175&campaignId=19634358&adgroupId=133354044&creativeId=615911447&trackId=pbaes.hP2fVxBDUcASH_BVkSxnWVx23hfDdHWqtIJq9zV4-CB6uSZwJnjmblFybymAXDRrcWfP1nsnG3FoKLLAGRx4ly3kEGXD5DZO19BYQrvNTMV5BFQ_6QXHo_eXcGGJswp1&callbackUrl=https%3a%2f%2fcm.bilibili.com%2fconv%2fapi%2fconversion%2fad%2fcb%2fv1%3ftrack_id%3dpbaes.hP2fVxBDUcASH_BVkSxnWVx23hfDdHWqtIJq9zV4-CB6uSZwJnjmblFybymAXDRrcWfP1nsnG3FoKLLAGRx4ly3kEGXD5DZO19BYQrvNTMV5BFQ_6QXHo_eXcGGJswp1&sourceId=2629",
+        "area": 5,
+        "is_ad_loc": true,
+        "ad_cb": "CLaxrgkQvKTLPxiXoNilAiACKAEwt4+vATjFFEIhMTc2MjUxMDQwNDg2NXExNzJhMjZhMTIxYTE2NHE1OTYwSIH6ue6lM1IM6Zi/56mG6L6+5be0Wg/lj6TlkInmi4nnibnpgqZiBuWNsOW6pmhkcAB4gICAgKA5gAEBiAEAkgENNDUuMTE0LjY1LjEzMaABCKgBD7IBIAfUsvoQIbv8nTMfrK2acyutQGzNLcIDuSsV5LEU/58bugH1Amh0dHBzOi8vYi5xdWFyay5jbi9hcHBzL3FraG9tZXBhZ2VfdHdvZm91ZmViL3JvdXRlcy9tb2RlbD9lbnRyeT1ncF93c2RiemdwcGNrazRfbm9ybWFsXzEwJmNoPWdwX3dzZGJ6Z3BwY2trNF9ub3JtYWxfMTAmaW1hZ2U9c2VhcmNoJmRwPSZwbGFuaWQ9MTk2MzQzNTgmdW5pdGlkPTEzMzM1NDA0NCZhX2NyZWF0aXZlPTYxNTkxMTQ0NyZ0cmFja19pZD1wYmFlcy5oUDJmVnhCRFVjQVNIX0JWa1N4bldWeDIzaGZEZEhXcXRJSnE5elY0LUNCNnVTWndKbmptYmxGeWJ5bUFYRFJyY1dmUDFuc25HM0ZvS0xMQUdSeDRseTNrRUdYRDVEWk8xOUJZUXJ2TlRNVjVCRlFfNlFYSG9fZVhjR0dKc3dwMSZmcm9tPWJpbGliaWxpJmZyb21fYmNnPWJjZ18xMl82MTU5MTE0NDfCAQEx0gEA2AHKA+ABnJPr3APoAZyT69wD8AGgnoCgvJsa+AECgAICiAL/oebhAZICAJgC2OEBoAIRqALY4QGwAhG4AgDAAtCGA8gCI+oCAPgC6xKIAwCSAwCoAwCwAwC4AwDCAwxCVjE5R25VemNFUUzIAwDSA60BeyIxIjoiNjE1OTExNDQ3IiwiMTIiOiIyNjI5IiwiMTMiOiI1NTYiLCIxNCI6Ijk5MyIsIjE1IjoiMTAwMSIsIjE2IjoiNTU2XzI0MTEiLCIyIjoiMjg2OTE3NSIsIjI0IjoiMSIsIjI1IjoiMTAzOCIsIjI2IjoiMjMxMSIsIjMiOiIyODY5MTc1IiwiNCI6IjU4IiwiNSI6IjI4NyIsIjYiOiIyODY5MTc1In3gAwDoAwDwAwD6AwN1Z2OCBEB1cF9taWQ6NDczNTM0NzE5LGF2X2lkOjExNTI5MzA5NTQ2NDczNixidl9pZDpCVjE5R25VemNFUUwsY19pZDowiAQIkAQAmAQBoAQCqgQECAAQBKoEBwjpj4YyEAG4BArABATKBADQBADYBADiBOYBNTYueyJwc0lkIjo4NDU1NywidjIiOiJlNkZiMEVmSlNCdmhSVnJLM2R6X2VkbU85dmJwbHdIaGtRc1R4b3JwUVJ0cWJCM29vV1lHN3I0dFBXZHpLNzU5UFNQUmJ0ZnlUckxUSl8yNE1xY0prNy1hS1gySmFIcjZnekxzZ2JCaWxwWHhfYjdlWktJV0Q0UE9IMHdBTWM0VWNLVzhweHg1RWI0WmU4d1lnQSJ9OzYzLnsicHNJZCI6ODM4NjEsInYyIjoiQWxBIn07NzAueyJwc0lkIjo4MzczNiwidjIiOiJCS1JJIn3oBADwBAD6BI4FeyJhY2NlbGVyYXRlX2ZhY3RvciI6MS4wLCJhY2NlbGVyYXRlX2lkIjowLCJhZF90eXBlX2ZpeCI6ImNwbSIsImFkdnZfaW5mbyI6IntcImFkanVzdF9iZWZvcmVfY29zdFwiOlwiMi40ODBcIixcImFkanVzdF9yYXRpb1wiOlwiMS4wMDBcIixcImJhbGFuY2VyX2lkXCI6MCxcImJhbGFuY2VyX3JhdGlvXCI6XCIwLjAwMFwiLFwiY2hhcmdlX2V4cF9rZXlfZGVwdGhcIjpcIlwiLFwiY2hhcmdlX2V4cF9rZXlfbGlnaHRcIjpcIl9mbHlfY3BhX29ubGluZV9jaGFyZ2U4XCIsXCJjb3N0X2RpZmZcIjpcIjAuMDAwXCJ9IiwiYml6X3R5cGUiOjEyLCJiaXpfdHlwZV9maXgiOjMsImNwYSI6IntcImNwYV9sZXZlbFwiOjIsXCJjcGFfc2V0XCI6MTcwMH0iLCJjcGFUYXJnZXRUeXBlIjo0LCJmcm9tVHJhY2tpZCI6IiIsImlhYV9jaGVhdF9mbG93IjowLCJpbm5lciI6MCwiaXNfY29tbWVyY2UiOjEsImlzX29jcGNfYW50b3Vfb2NwbSI6MCwibWluaV9nYW1lX2lkIjoiIiwibWluaV9nYW1lX3Bvc2l0aW9uX2lkIjoiIiwibW9kZWxTY29yZSI6IntcImN0clwiOlwiMTUuMDEyNDIzXCIsXCJjdnJfbDBcIjpcIjM1LjIzNjQwOFwiLFwiZmluYWxfcGN0clwiOlwiMTUuMDEyNDIzXCIsXCJmaW5hbF9wY3ZyXCI6XCIzNS4yMzY0MDhcIn0iLCJ2aWRlb191cF9taWQiOjB9gAUAkAUokAUzkAVDkAVIkAVykAWMAZAFswGQBbQBkAXQAZAF0QGQBdQBkAXYAZAFiQKQBY4CkAWaApAFqQKQBaoCkAXAApAFwgKQBcMCkAXFApAFywKQBc4CkAXTApAF1gKQBdcCkAXYApAF2QKQBdoCkAXfApAF4QKQBeMCkAXkApAF5QKQBeYCkAXwApAF9QKQBfsCkAX/ApAFjQOQBZQDkAWYA5AFmQOQBZoDkAWbA5AFoAOQBaUDkAWnA5AFrAOQBbADkAW2A5AFtwOQBcADkAXBA5AFzQOQBeADkAXzA5AF9QOQBfgDkAX/A5AFtASQBd0EkAXGBZAFjwaQBaYGkAWTB5AFogeQBdQHkAX5B5AFgQiQBbcIkAXICJAFyxCQBdgQkAXqEJAFmBGgBQC4BQTABawEyAUH4AUE6AUA8gUwQ0F3UUFTaWtEVEFFVlZLNEhrQmxGZklNUW0wQVFCeEdkUUFBZ0QrVkFSWHlERUk9+AUAiAaXoNilAg==",
+        "title": "",
+        "server_type": 1,
+        "cm_mark": 1,
+        "stime": 0,
+        "mid": "",
+        "activity_type": 0,
+        "epid": 0,
+        "season": null,
+        "room": null,
+        "sub_title": "",
+        "ad_desc": "",
+        "adver_name": "",
+        "null_frame": false,
+        "pic_main_color": "",
+        "card_type": 0,
+        "business_mark": {
+          "bg_border_color": "#999999FF",
+          "bg_color": "",
+          "bg_color_night": "",
+          "border_color": "#999999FF",
+          "border_color_night": "#686868",
+          "img_height": 0,
+          "img_url": "",
+          "img_width": 0,
+          "text": "广告",
+          "text_color": "#999999FF",
+          "text_color_night": "#686868",
+          "type": 2
+        },
+        "inline": {
+          "inline_use_same": 0,
+          "inline_type": 0,
+          "inline_url": "",
+          "inline_barrage_switch": 0
+        },
+        "operater": "",
+        "jump_target": 1,
+        "show_urls": [
+          "https://pc-unet.quark.cn/ad/track/v1/lx/show/bilibili?ch=pcquark@gp_wsdbzgppckk4_normal_10&appkey=695e269ce37c495ab5a5d16e1f4fee32&ip=45.114.65.131&ua=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_7%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Safari%2F537.36&accountId=2869175&campaignId=19634358&adgroupId=133354044&creativeId=615911447&trackId=pbaes.hP2fVxBDUcASH_BVkSxnWVx23hfDdHWqtIJq9zV4-CB6uSZwJnjmblFybymAXDRrcWfP1nsnG3FoKLLAGRx4ly3kEGXD5DZO19BYQrvNTMV5BFQ_6QXHo_eXcGGJswp1&callbackUrl=https%3a%2f%2fcm.bilibili.com%2fconv%2fapi%2fconversion%2fad%2fcb%2fv1%3ftrack_id%3dpbaes.hP2fVxBDUcASH_BVkSxnWVx23hfDdHWqtIJq9zV4-CB6uSZwJnjmblFybymAXDRrcWfP1nsnG3FoKLLAGRx4ly3kEGXD5DZO19BYQrvNTMV5BFQ_6QXHo_eXcGGJswp1&sourceId=2629"
+        ],
+        "click_urls": [
+          "https://pc-unet.quark.cn/ad/track/v1/lx/click/bilibili?ch=pcquark@gp_wsdbzgppckk4_normal_10&appkey=695e269ce37c495ab5a5d16e1f4fee32&ip=45.114.65.131&ua=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_7%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Safari%2F537.36&accountId=2869175&campaignId=19634358&adgroupId=133354044&creativeId=615911447&trackId=pbaes.hP2fVxBDUcASH_BVkSxnWVx23hfDdHWqtIJq9zV4-CB6uSZwJnjmblFybymAXDRrcWfP1nsnG3FoKLLAGRx4ly3kEGXD5DZO19BYQrvNTMV5BFQ_6QXHo_eXcGGJswp1&callbackUrl=https%3a%2f%2fcm.bilibili.com%2fconv%2fapi%2fconversion%2fad%2fcb%2fv1%3ftrack_id%3dpbaes.hP2fVxBDUcASH_BVkSxnWVx23hfDdHWqtIJq9zV4-CB6uSZwJnjmblFybymAXDRrcWfP1nsnG3FoKLLAGRx4ly3kEGXD5DZO19BYQrvNTMV5BFQ_6QXHo_eXcGGJswp1&sourceId=2629"
+        ],
+        "track_id": "pbaes.hP2fVxBDUcASH_BVkSxnWVx23hfDdHWqtIJq9zV4-CB6uSZwJnjmblFybymAXDRrcWfP1nsnG3FoKLLAGRx4ly3kEGXD5DZO19BYQrvNTMV5BFQ_6QXHo_eXcGGJswp1",
+        "feedback_panel": {
+          "close_rec_tips": "操作成功",
+          "open_rec_tips": "将减少展示此类广告",
+          "panel_type_text": "",
+          "toast": "将减少相似广告推荐"
+        },
+        "sales_type": 11,
+        "wx_program_info": null
+      }
+    ],
+    "3038": [
+      {
+        "id": 1717903,
+        "contract_id": "",
+        "res_id": 3038,
+        "asg_id": 1669559,
+        "pos_num": 1,
+        "name": "来投！",
+        "pic": "http://i0.hdslb.com/bfs/banner/67ef4f73c7795e235a5a30dddd2af124731d75c9.jpg",
+        "image_urls": null,
+        "litpic": "",
+        "url": "https://www.bilibili.com/blackboard/era/k08CbIYGPD7drcEQ.html",
+        "style": 0,
+        "agency": "",
+        "label": "",
+        "intro": "",
+        "creative_type": 0,
+        "request_id": "1762510405",
+        "src_id": 3039,
+        "area": 5,
+        "is_ad_loc": false,
+        "ad_cb": "",
+        "title": "",
+        "server_type": 0,
+        "cm_mark": 0,
+        "stime": 1762488000,
+        "mid": "",
+        "activity_type": 0,
+        "epid": 0,
+        "season": null,
+        "room": null,
+        "sub_title": "",
+        "ad_desc": "",
+        "adver_name": "",
+        "null_frame": false,
+        "pic_main_color": "",
+        "card_type": 0,
+        "business_mark": null,
+        "inline": {
+          "inline_use_same": 1,
+          "inline_type": 0,
+          "inline_url": "",
+          "inline_barrage_switch": 1
+        },
+        "operater": "manager_banner_10948",
+        "jump_target": 0,
+        "show_urls": null,
+        "click_urls": null,
+        "track_id": "",
+        "feedback_panel": null,
+        "sales_type": 0,
+        "wx_program_info": null
+      }
+    ],
+    "4330": [
+      {
+        "id": 0,
+        "contract_id": "",
+        "res_id": 0,
+        "asg_id": 0,
+        "pos_num": 1,
+        "name": "《明日方舟：终末地》",
+        "pic": "https://i0.hdslb.com/bfs/sycp/sanlian/image/c4c30b51e8064f11ab3fc3d4002f5974.png",
+        "image_urls": null,
+        "litpic": "",
+        "url": "https://www.biligame.com/detail/?id=108422&sourceFrom=2000330153&sourceType=adPut&track_id=pbaes.hP2fVxBDUcASH_BVkSxnWVx23hfDdHWqtIJq9zV4-CBDk6zCJcI5qCpzfFztRGDhE8w48WXi3we2L4v4hIta7M4RgJ8WGl57rykKNd7M_27Vs7BeaELhC4Fb6-svunLg&from_bcg=bcg_12_612314640",
+        "style": 0,
+        "is_ad": true,
+        "agency": "",
+        "label": "",
+        "intro": "",
+        "creative_type": 2,
+        "request_id": "1762510404865q172a26a121a164q5960",
+        "creative_id": 612643812,
+        "src_id": 4331,
+        "area": 5,
+        "is_ad_loc": true,
+        "ad_cb": "CJKZzwoQofWlPxjk55CkAiBCKAEwsvXjATjrIUIhMTc2MjUxMDQwNDg2NXExNzJhMjZhMTIxYTE2NHE1OTYwSIH6ue6lM1IM6Zi/56mG6L6+5be0Wg/lj6TlkInmi4nnibnpgqZiBuWNsOW6pmhkcAB4gICAgKA5gAEDiAEAkgENNDUuMTE0LjY1LjEzMaABlgGoAQ6yASAdTr8rsc6B916f/aHA440P+ot9RbZ4PkPxhAXX1TISSboB+wFodHRwczovL3d3dy5iaWxpZ2FtZS5jb20vZGV0YWlsLz9pZD0xMDg0MjImc291cmNlRnJvbT0yMDAwMzMwMTUzJnNvdXJjZVR5cGU9YWRQdXQmdHJhY2tfaWQ9cGJhZXMuaFAyZlZ4QkRVY0FTSF9CVmtTeG5XVngyM2hmRGRIV3F0SUpxOXpWNC1DQkRrNnpDSmNJNXFDcHpmRnp0UkdEaEU4dzQ4V1hpM3dlMkw0djRoSXRhN000UmdKOFdHbDU3cnlrS05kN01fMjdWczdCZWFFTGhDNEZiNi1zdnVuTGcmZnJvbV9iY2c9YmNnXzEyXzYxMjMxNDY0MMIBATHSAQDYAcoD4AGck+vcA+gBneaI2APwAaCegKC8mxr4AUKAAgKIAv+h5uEBkgIAmAKTy+8IoAKu8AKoApHF0wawAuqgArgCAMACwJaxAsgCkE7qAgD4AsehAYgDAJIDAKgDALADALgDAMIDDEJWMTlHblV6Y0VRTMgDANIDswF7IjEiOiI2MTI2NDM4MTIiLCIxMiI6IjQzMzEiLCIxMyI6IjMxNjk3NTEiLCIxNCI6Ijg4NyIsIjE1IjoiMTA4OSIsIjE2IjoiMzE2OTc1MV8yMDY3OSIsIjIiOiIzNzM0MTk0IiwiMjQiOiIxIiwiMjUiOiIxMTQyIiwiMjYiOiIxMTQzIiwiMyI6IjM3MzQxOTQiLCI0IjoiMCIsIjUiOiIwIiwiNiI6IjM3MzQxOTQifeADAOgDAPADAPoDA3VnY4IEQHVwX21pZDo0NzM1MzQ3MTksYXZfaWQ6MTE1MjkzMDk1NDY0NzM2LGJ2X2lkOkJWMTlHblV6Y0VRTCxjX2lkOjCIBJYBkAQAmAQBoAQBqgQHCK2A2zEQBKoEBwjM8doxEAG4BArABADKBADQBADYBADiBOYBNTYueyJwc0lkIjo4NDU1NywidjIiOiJlNkZiMEVmSlNCdmhSVnJLM2R6X2VkbU85dmJwbHdIaGtRc1R4b3JwUVJ0cWJCM29vV1lHN3I0dFBXZHpLNzU5UFNQUmJ0ZnlUckxUSl8yNE1xY0prNy1hS1gySmFIcjZnekxzZ2JCaWxwWHhfYjdlWktJV0Q0UE9IMHdBTWM0VWNLVzhweHg1RWI0WmU4d1lnQSJ9OzYzLnsicHNJZCI6ODM4NjEsInYyIjoiQWxBIn07NzAueyJwc0lkIjo4MzczNiwidjIiOiJCS1JJIn3oBADwBAD6BI8DeyJhY2NlbGVyYXRlX2ZhY3RvciI6MS4wLCJhY2NlbGVyYXRlX2lkIjowLCJhZF90eXBlX2ZpeCI6ImNwbSIsImJpel90eXBlIjoxMiwiYml6X3R5cGVfZml4IjozLCJjcGEiOiJ7XCJjcGFfbGV2ZWxcIjowLFwiY3BhX3NldFwiOjB9IiwiY3BhVGFyZ2V0VHlwZSI6MCwiZnJvbVRyYWNraWQiOiIiLCJpYWFfY2hlYXRfZmxvdyI6MCwiaW5uZXIiOjEsImlzX2NvbW1lcmNlIjoxLCJpc19vY3BjX2FudG91X29jcG0iOjAsIm1pbmlfZ2FtZV9pZCI6IiIsIm1pbmlfZ2FtZV9wb3NpdGlvbl9pZCI6IiIsIm1vZGVsU2NvcmUiOiJ7XCJjdHJcIjpcIjE0Ljk5MDIzMlwiLFwiZmluYWxfcGN0clwiOlwiMTQuOTkwMjMyXCIsXCJmaW5hbF9wY3ZyXCI6XCIxMDAwMC4wMDAwMDBcIn0iLCJ2aWRlb191cF9taWQiOjB9gAUAkAUEkAUlkAUzkAU7kAVDkAVIkAVTkAWMAZAFswGQBbQBkAXFAZAF0AGQBdgBkAWaApAFnwKQBcMCkAXOApAF0wKQBdYCkAXYApAF2gKQBdsCkAXfApAF8AKQBf8CkAWKA5AFjQOQBZQDkAWYA5AFmQOQBZoDkAWbA5AFpwOQBbADkAXAA5AFwQOQBc0DkAXQA5AF4AOQBfUDkAX4A5AF+gOQBfsDkAX/A5AFtASQBd0EkAXtBJAFxgWQBd8FkAX+BZAFgAaQBYEGkAWCBpAFjwaQBaQGkAWmBpAFugaQBZEHkAWTB5AFoQeQBbAHkAXCB5AFxweQBdQHkAXtB5AFlgiQBZcIkAW3CJAFyAiQBesQkAXtEJAFjRGQBZYRkAWYEaAFALgFAMAF17vBAcgFB+AFBOgFAPIFLENBeGxBRUFjUm0wQVFCeEdkUUFBZ0QrZ0FjTG5vaitvQVpEYy9LTUNzQUVC+AXC56I/gAb/k+vcA4gGkNz8owI=",
+        "title": "《明日方舟：终末地》",
+        "server_type": 1,
+        "cm_mark": 1,
+        "stime": 0,
+        "mid": "",
+        "activity_type": 0,
+        "epid": 0,
+        "season": null,
+        "room": null,
+        "sub_title": "",
+        "ad_desc": "全面测试招募现已开启",
+        "adver_name": "",
+        "null_frame": false,
+        "pic_main_color": "",
+        "card_type": 0,
+        "business_mark": {
+          "bg_border_color": "",
+          "bg_color": "",
+          "bg_color_night": "",
+          "border_color": "",
+          "border_color_night": "",
+          "img_height": 48,
+          "img_url": "https://i0.hdslb.com/bfs/sycp/mng/202111/47b7b814a3dce30769bf0fba4252f281.png",
+          "img_width": 96,
+          "text": "",
+          "text_color": "",
+          "text_color_night": "",
+          "type": 4
+        },
+        "inline": {
+          "inline_use_same": 0,
+          "inline_type": 0,
+          "inline_url": "",
+          "inline_barrage_switch": 0
+        },
+        "operater": "",
+        "jump_target": 1,
+        "show_urls": null,
+        "click_urls": null,
+        "track_id": "pbaes.hP2fVxBDUcASH_BVkSxnWVx23hfDdHWqtIJq9zV4-CBDk6zCJcI5qCpzfFztRGDhE8w48WXi3we2L4v4hIta7M4RgJ8WGl57rykKNd7M_27Vs7BeaELhC4Fb6-svunLg",
+        "feedback_panel": {
+          "close_rec_tips": "操作成功",
+          "feedback_panel_detail": [
+            {
+              "icon_url": "https://i0.hdslb.com/bfs/sycp/mng/201907/a53df8f189bb12666a39d10ad1babcf5.png",
+              "jump_type": 1,
+              "jump_url": "",
+              "module_id": 1,
+              "secondary_panel": [
+                {
+                  "reason_id": 1,
+                  "text": "不感兴趣"
+                },
+                {
+                  "reason_id": 2,
+                  "text": "相似内容过多"
+                },
+                {
+                  "reason_id": 5,
+                  "text": "广告质量差"
+                }
+              ],
+              "sub_text": "（选择后将优化广告展示）",
+              "text": "屏蔽广告"
+            },
+            {
+              "icon_url": "https://i0.hdslb.com/bfs/sycp/mng/202409/539675ae22c4230d299f1525a458b785.png",
+              "jump_type": 2,
+              "jump_url": "https://cm.bilibili.com/feedback-pc/#/introduction",
+              "module_id": 10,
+              "sub_text": "",
+              "text": "我为什么会看到此广告"
+            },
+            {
+              "icon_url": "https://i0.hdslb.com/bfs/sycp/mng/202409/5dcdf2063f6deb0df5e0bcdd0a9b7561.png",
+              "jump_type": 2,
+              "jump_url": "https://cm.bilibili.com/feedback-pc/#/ad?creative_id=612314640&source_id=4331&complain_detail=eyJhZF90eXBlIjozLCJhdmlkIjowLCJleHBfbmFtZSI6IiIsImdyYWRlX2NvbmNyZXRlX2lkX21hcHBpbmciOiJ7XCIxXCI6XCI2MTI2NDM4MTJcIixcIjEyXCI6XCI0MzMxXCIsXCIxM1wiOlwiMzE2OTc1MVwiLFwiMTRcIjpcIjg4N1wiLFwiMTVcIjpcIjEwODlcIixcIjE2XCI6XCIzMTY5NzUxXzIwNjc5XCIsXCIyXCI6XCIzNzM0MTk0XCIsXCIyNFwiOlwiMVwiLFwiMjVcIjpcIjExNDJcIixcIjI2XCI6XCIxMTQzXCIsXCIzXCI6XCIzNzM0MTk0XCIsXCI0XCI6XCIwXCIsXCI1XCI6XCIwXCIsXCI2XCI6XCIzNzM0MTk0XCJ9IiwiaW1hZ2VfaWQiOjEwNDI0OTU0OCwibWF0ZXJpYWxfdHlwZSI6NCwic3RyYXRlZ3lfaWQiOjAsInRpdGxlX2lkIjoxMDQyNTE0MzcsInRyYWlsIjoiNTYue1wicHNJZFwiOjg0NTU3LFwidjJcIjpcImU2RmIwRWZKU0J2aFJWckszZHpfZWRtTzl2YnBsd0hoa1FzVHhvcnBRUnRxYkIzb29XWUc3cjR0UFdkeks3NTlQU1BSYnRmeVRyTFRKXzI0TXFjSms3LWFLWDJKYUhyNmd6THNnYkJpbHBYeF9iN2VaS0lXRDRQT0gwd0FNYzRVY0tXOHB4eDVFYjRaZTh3WWdBXCJ9OzYzLntcInBzSWRcIjo4Mzg2MSxcInYyXCI6XCJBbEFcIn07NzAue1wicHNJZFwiOjgzNzM2LFwidjJcIjpcIkJLUklcIn0ifQ&request_id=1762510404865q172a26a121a164q5960",
+              "module_id": 9,
+              "sub_text": "",
+              "text": "我要投诉"
+            }
+          ],
+          "open_rec_tips": "将减少展示此类广告",
+          "panel_type_text": "广告",
+          "toast": "将减少相似广告推荐"
+        },
+        "sales_type": 12,
+        "wx_program_info": null
+      }
+    ]
+  },
+  "adsControl": {
+    "has_danmu": 0,
+    "under_player_scroller_seconds": 60,
+    "has_live_booking_ad": false
+  },
+  "noRecommendLive": false,
+  "noRecommendActivity": false,
+  "noTagAndNote": false,
+  "emergencyBan": {
+    "no_like": false,
+    "no_coin": false,
+    "no_fav": false,
+    "no_share": false
+  },
+  "player": null,
+  "continuousPlay": true,
+  "nanoTheme": {
+    "bpx-primary-color": "var(--brand_blue)",
+    "bpx-fn-color": "var(--brand_blue)",
+    "bpx-fn-hover-color": "var(--brand_blue)",
+    "bpx-box-shadow": "var(--bg3)",
+    "bpx-dmsend-switch-icon": "var(--text2)",
+    "bpx-dmsend-hint-icon": "var(--graph_medium)",
+    "bpx-aux-header-icon": "var(--graph_icon)",
+    "bpx-aux-float-icon": "var(--graph_icon)",
+    "bpx-aux-block-icon": "var(--text3)",
+    "bpx-dmsend-info-font": "var(--text2)",
+    "bpx-dmsend-input-font": "var(--text1)",
+    "bpx-dmsend-hint-font": "var(--text3)",
+    "bpx-aux-header-font": "var(--text1)",
+    "bpx-aux-footer-font": "var(--text2)",
+    "bpx-aux-footer-font-hover": "var(--text1)",
+    "bpx-aux-content-font1": "var(--text1)",
+    "bpx-aux-content-font2": "var(--text2)",
+    "bpx-aux-content-font3": "var(--text2)",
+    "bpx-aux-content-font4": "var(--text3)",
+    "bpx-aux-content-font5": "var(--text3)",
+    "bpx-dmsend-main-bg": "var(--bg1)",
+    "bpx-dmsend-input-bg": "var(--bg3)",
+    "bpx-aux-header-bg": "var(--graph_bg_regular)",
+    "bpx-aux-footer-bg": "var(--graph_bg_regular)",
+    "bpx-aux-content-bg": "var(--bg1)",
+    "bpx-aux-button-bg": "var(--bg3)",
+    "bpx-aux-button-disabled-bg": "var(--graph_bg_thin)",
+    "bpx-aux-float-bg": "var(--bg1_float)",
+    "bpx-aux-float-hover-bg": "var(--graph_medium)",
+    "bpx-aux-cover-bg": "var(--graph_weak)",
+    "bpx-dmsend-border": "var(--bg3)",
+    "bpx-aux-float-border": "var(--line_light)",
+    "bpx-aux-line-border": "var(--line_regular)",
+    "bpx-aux-input-border": "var(--line_regular)",
+    "bpx-dmsend-disable-button-bg": "var(--graph_bg_thick)",
+    "bpx-dmsend-disable-button-text": "var(--text3)"
+  },
+  "insertScripts": [
+    "//s1.hdslb.com/bfs/static/jinkela/video/video.ba7cdbace0ecb5c39a029694601d82c078205fe3.js"
+  ],
+  "constants": {},
+  "abtest": {
+    "rcmd_tab_version": "DISABLE",
+    "enable_shortcut_key": "DISABLE",
+    "enable_live_anime": "ENABLE",
+    "enable_strip_ad": "ENABLE",
+    "comment_version_hash": "78d0977505"
+  },
+  "corePlayer": {
+    "id": 0,
+    "ref": "<link rel='preload' href='//s1.hdslb.com/bfs/static/player/main/core.de91ca9d.js' as='script'/>",
+    "str": "<script type='text/javascript' src='//s1.hdslb.com/bfs/static/player/main/core.de91ca9d.js'></script>"
+  }
+}
