@@ -38,6 +38,7 @@ headers = {
 }
 params = {
     'keyword': '猫',
+    # 'keyword': '斗破苍穹',
     'from_source': 'webtop_search',
     'spm_id_from': '333.1007',
     'search_source': '5',
@@ -53,5 +54,16 @@ response = requests.get(
 print(response.status_code)
 tree = html.fromstring(response.text)
 print('BV1M114BiEY6' in response.text)
-print([link_id.split('?')[0].replace('//www.','https://www.') if 'https' not in link_id.split('?')[0] else link_id.split('?')[0]  for link_id in tree.xpath('//div[@class="bili-video-card__wrap"]/a/@href')])
+# print('BV1Zb1QBWErM' in response.text)
+list_data = [link_id.split('?')[0].replace('//www.','https://www.') if 'https' not in link_id.split('?')[0] else link_id.split('?')[0]  for link_id in tree.xpath('//div[@class="bili-video-card__wrap"]/a/@href')]
+result_data = []
+for l_d in list_data:
+    l_d = l_d.strip()
+    if 'https://www.bilibili.com/video' in l_d:
+        if l_d[-1]!= '/':
+            l_d = l_d+'/'
+        result_data.append(l_d)
+print(list(set(result_data)))
+print(len(list(set(result_data))))
 # print([link.replace('//www.','https://www.') for link in tree.xpath('//div[@class="bili-video-card__wrap"]/a[@data-mod="search-card"]/@href')])
+
